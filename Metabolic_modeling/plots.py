@@ -96,18 +96,37 @@ class CommPlots:
         :return:
         """
         solution_exp = {}
+
+        self.model.reactions.ATPM_cA.lower_bound = 0
+        self.model.reactions.ATPM_cR.lower_bound = 0
+        self.model.reactions.bio1.lower_bound = 0
+        self.model.optimize()
+
         for i in range(len(expected_growth_60R_40A)):
-            self.model.reactions.EX_cpd00029_e0.lower_bound = rates['EX_cpd00029_e0'][i]
-            self.model.reactions.EX_cpd00209_e0.lower_bound = rates['EX_cpd00209_e0'][i] if rates['EX_cpd00209_e0'][
-                                                                                                i] < 0 else 0
-            self.model.reactions.EX_cpd00075_e0.lower_bound = rates['EX_cpd00075_e0'][i] if rates['EX_cpd00075_e0'][
-                                                                                                i] < 0 else 0
+            uptake_acetate = rates['EX_cpd00029_e0'][i]
+            uptake_nitrate = rates['EX_cpd00209_e0'][i] if rates['EX_cpd00209_e0'][i] < 0 else 0
+            uptake_nitrite = rates['EX_cpd00075_e0'][i] if rates['EX_cpd00075_e0'][i] < 0 else 0
+
+            self.model.reactions.EX_cpd00029_e0.lower_bound = uptake_acetate
+            self.model.reactions.EX_cpd00209_e0.lower_bound = uptake_nitrate
+            self.model.reactions.EX_cpd00075_e0.lower_bound = uptake_nitrite
+
             self.model.reactions.ATPM_cA.lower_bound = solution_array[i]['max_atpm_a'] * 0.4
             self.model.reactions.bio1.lower_bound = expected_growth_60R_40A[i]
             self.model.objective = 'ATPM_cR'
-            # model_comm.reactions.ATPM_cR.lower_bound = 0.04307491290453284 * 0.4
-            solution_exp[i] = cobra.flux_analysis.pfba(self.model)
 
+            print('Acetate:', uptake_acetate,
+                  'NO3', uptake_nitrate,
+                  'NO2', uptake_nitrite,
+                  'min community biomass', expected_growth_60R_40A[i], 'mATP 3H11',
+                  self.model.reactions.ATPM_cA.lower_bound)
+
+            solution = cobra.flux_analysis.pfba(self.model)
+
+            solution_exp[i] = solution
+
+            print('Found solution mATP R12', solution_exp[i].fluxes['ATPM_cR'], 'solution status', solution.status)
+            
         return solution_exp
 
     @staticmethod

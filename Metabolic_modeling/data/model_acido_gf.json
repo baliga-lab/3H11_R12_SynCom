@@ -12828,7 +12828,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1344 or GW101-3H11_contig_1_4579 or (GW101-3H11_contig_1_989 or GW101-3H11_contig_1_2727 or GW101-3H11_contig_1_1518 or GW101-3H11_contig_1_4776 or GW101-3H11_contig_1_3888 or GW101-3H11_contig_1_4102)",
+"gene_reaction_rule":"GW101-3H11_contig_1_4579 or GW101-3H11_contig_1_1344 or (GW101-3H11_contig_1_4102 or GW101-3H11_contig_1_989 or GW101-3H11_contig_1_3888 or GW101-3H11_contig_1_2727 or GW101-3H11_contig_1_4776 or GW101-3H11_contig_1_1518)",
 "notes":{
 "modelseed_complex":"cpx00333;cpx00335;tcpx00648"
 },
@@ -12890,7 +12890,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -12913,7 +12913,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1776 or GW101-3H11_contig_1_4597",
+"gene_reaction_rule":"GW101-3H11_contig_1_4597 or GW101-3H11_contig_1_1776",
 "notes":{
 "modelseed_complex":"cpx01042;tcpx01206"
 },
@@ -12974,7 +12974,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_519 or GW101-3H11_contig_1_518 or GW101-3H11_contig_1_4699 or GW101-3H11_contig_1_1675",
+"gene_reaction_rule":"GW101-3H11_contig_1_519 or GW101-3H11_contig_1_4699 or GW101-3H11_contig_1_518 or GW101-3H11_contig_1_1675",
 "notes":{
 "modelseed_complex":"cpx01645;tcpx00608;tcpx00611;tcpx00612"
 },
@@ -13033,7 +13033,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_690 or GW101-3H11_contig_1_2048",
+"gene_reaction_rule":"GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_690",
 "notes":{
 "modelseed_complex":"cpx01574"
 },
@@ -13072,7 +13072,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2980 or GW101-3H11_contig_1_854)",
+"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_854 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_2980)",
 "notes":{
 "modelseed_complex":"cpx01599;tcpx00306"
 },
@@ -13239,7 +13239,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_130 or GW101-3H11_contig_1_2422",
+"gene_reaction_rule":"GW101-3H11_contig_1_2422 or GW101-3H11_contig_1_130",
 "notes":{
 "modelseed_complex":"cpx00073"
 },
@@ -13260,7 +13260,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -13301,7 +13301,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -13473,7 +13473,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_1705 or GW101-3H11_contig_1_2471 or GW101-3H11_contig_1_3632 or GW101-3H11_contig_1_3519 or GW101-3H11_contig_1_1842 or GW101-3H11_contig_1_4077 or GW101-3H11_contig_1_2005 or GW101-3H11_contig_1_2893 or GW101-3H11_contig_1_3849 or GW101-3H11_contig_1_4862) or (GW101-3H11_contig_1_1100 or GW101-3H11_contig_1_2867)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4862 or GW101-3H11_contig_1_3632 or GW101-3H11_contig_1_2005 or GW101-3H11_contig_1_1842 or GW101-3H11_contig_1_2471 or GW101-3H11_contig_1_3519 or GW101-3H11_contig_1_4077 or GW101-3H11_contig_1_2893 or GW101-3H11_contig_1_1705 or GW101-3H11_contig_1_3849) or (GW101-3H11_contig_1_2867 or GW101-3H11_contig_1_1100)",
 "notes":{
 "modelseed_complex":"cpx01409;tcpx01368"
 },
@@ -13493,7 +13493,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -13558,7 +13558,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1344 or GW101-3H11_contig_1_4579 or (GW101-3H11_contig_1_989 or GW101-3H11_contig_1_2727 or GW101-3H11_contig_1_1518 or GW101-3H11_contig_1_4776 or GW101-3H11_contig_1_3888 or GW101-3H11_contig_1_4102)",
+"gene_reaction_rule":"GW101-3H11_contig_1_4579 or GW101-3H11_contig_1_1344 or (GW101-3H11_contig_1_4102 or GW101-3H11_contig_1_989 or GW101-3H11_contig_1_3888 or GW101-3H11_contig_1_2727 or GW101-3H11_contig_1_4776 or GW101-3H11_contig_1_1518)",
 "notes":{
 "modelseed_complex":"cpx00333;cpx00335;tcpx00648"
 },
@@ -13600,7 +13600,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -13668,7 +13668,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_82 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_638",
+"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_638 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_82",
 "notes":{
 "modelseed_complex":"cpx01488"
 },
@@ -13746,7 +13746,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2055 or GW101-3H11_contig_1_735",
+"gene_reaction_rule":"GW101-3H11_contig_1_735 or GW101-3H11_contig_1_2055",
 "notes":{
 "modelseed_complex":"cpx01264"
 },
@@ -14053,7 +14053,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2364 or GW101-3H11_contig_1_1318",
+"gene_reaction_rule":"GW101-3H11_contig_1_1318 or GW101-3H11_contig_1_2364",
 "notes":{
 "modelseed_complex":"cpx00487"
 },
@@ -14235,7 +14235,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_214 or GW101-3H11_contig_1_958 or (GW101-3H11_contig_1_4396 or GW101-3H11_contig_1_3931) or (GW101-3H11_contig_1_3326 and GW101-3H11_contig_1_3326)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3326 and GW101-3H11_contig_1_3326) or (GW101-3H11_contig_1_4396 or GW101-3H11_contig_1_3931) or GW101-3H11_contig_1_214 or GW101-3H11_contig_1_958",
 "notes":{
 "modelseed_complex":"cpx00321;cpx00322;cpx01545;tcpx01318"
 },
@@ -14256,7 +14256,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -14352,7 +14352,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3016 or (GW101-3H11_contig_1_415 or GW101-3H11_contig_1_4635)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4635 or GW101-3H11_contig_1_415) or GW101-3H11_contig_1_3016",
 "notes":{
 "modelseed_complex":"cpx52446;cpx52559"
 },
@@ -14493,7 +14493,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -14595,7 +14595,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2364 or GW101-3H11_contig_1_1318",
+"gene_reaction_rule":"GW101-3H11_contig_1_1318 or GW101-3H11_contig_1_2364",
 "notes":{
 "modelseed_complex":"cpx00487"
 },
@@ -14718,7 +14718,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -14825,7 +14825,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -14930,7 +14930,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -14992,7 +14992,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -15031,7 +15031,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or GW101-3H11_contig_1_838",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -15073,7 +15073,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_82 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_638",
+"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_638 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_82",
 "notes":{
 "modelseed_complex":"cpx01488"
 },
@@ -15205,7 +15205,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -15248,7 +15248,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4456 or GW101-3H11_contig_1_3741",
+"gene_reaction_rule":"GW101-3H11_contig_1_3741 or GW101-3H11_contig_1_4456",
 "notes":{
 "modelseed_complex":"cpx52483;tcpx00355"
 },
@@ -15269,7 +15269,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -15335,7 +15335,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_61 or GW101-3H11_contig_1_3017",
+"gene_reaction_rule":"GW101-3H11_contig_1_3017 or GW101-3H11_contig_1_61",
 "notes":{
 "modelseed_complex":"cpx00182"
 },
@@ -15442,7 +15442,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -15463,7 +15463,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2223 or GW101-3H11_contig_1_2224",
+"gene_reaction_rule":"GW101-3H11_contig_1_2224 or GW101-3H11_contig_1_2223",
 "notes":{
 "modelseed_complex":"cpx01312;tcpx00091"
 },
@@ -15505,7 +15505,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3873 or GW101-3H11_contig_1_2073) or GW101-3H11_contig_1_4314 or (GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2073 or GW101-3H11_contig_1_3873) or (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984) or GW101-3H11_contig_1_4314",
 "notes":{
 "modelseed_complex":"tcpx00049;tcpx00054;tcpx00282"
 },
@@ -15583,7 +15583,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -15605,7 +15605,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_2163 or GW101-3H11_contig_1_1671) and (GW101-3H11_contig_1_1673 or GW101-3H11_contig_1_2162)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_1671 or GW101-3H11_contig_1_2163) and (GW101-3H11_contig_1_1673 or GW101-3H11_contig_1_2162)",
 "notes":{
 "modelseed_complex":"tcpx00199"
 },
@@ -15646,7 +15646,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_642 or GW101-3H11_contig_1_2757) and (GW101-3H11_contig_1_2758 or GW101-3H11_contig_1_641) and (GW101-3H11_contig_1_2759 or GW101-3H11_contig_1_640)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_642 or GW101-3H11_contig_1_2757) and (GW101-3H11_contig_1_2758 or GW101-3H11_contig_1_641) and (GW101-3H11_contig_1_640 or GW101-3H11_contig_1_2759)",
 "notes":{
 "modelseed_complex":"tcpx01185"
 },
@@ -15751,7 +15751,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -15815,7 +15815,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -15939,7 +15939,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_1067 or GW101-3H11_contig_1_1825",
+"gene_reaction_rule":"GW101-3H11_contig_1_1825 or GW101-3H11_contig_1_1067",
 "notes":{
 "modelseed_complex":"tcpx00419;tcpx00421"
 },
@@ -16291,7 +16291,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2980 or GW101-3H11_contig_1_854) or (GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980)",
+"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_854 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_2980) or (GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980)",
 "notes":{
 "modelseed_complex":"cpx00206;cpx01599;tcpx00306"
 },
@@ -16393,7 +16393,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3175 or GW101-3H11_contig_1_3465 or GW101-3H11_contig_1_558",
+"gene_reaction_rule":"GW101-3H11_contig_1_3465 or GW101-3H11_contig_1_3175 or GW101-3H11_contig_1_558",
 "notes":{
 "modelseed_complex":"tcpx01346"
 },
@@ -16437,7 +16437,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_3290 or GW101-3H11_contig_1_82 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_638",
+"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_3290 or GW101-3H11_contig_1_638 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_82",
 "notes":{
 "modelseed_complex":"tcpx00605"
 },
@@ -16458,7 +16458,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3263 or GW101-3H11_contig_1_158",
+"gene_reaction_rule":"GW101-3H11_contig_1_158 or GW101-3H11_contig_1_3263",
 "notes":{
 "modelseed_complex":"cpx00910;cpx52754"
 },
@@ -16560,7 +16560,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -16581,7 +16581,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -16602,7 +16602,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284) or (GW101-3H11_contig_1_3873 or GW101-3H11_contig_1_2073) or GW101-3H11_contig_1_4314",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2073 or GW101-3H11_contig_1_3873) or (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984) or GW101-3H11_contig_1_4314",
 "notes":{
 "modelseed_complex":"tcpx00049;tcpx00054;tcpx00282"
 },
@@ -16622,7 +16622,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -16662,7 +16662,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -16765,7 +16765,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or (GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_4067 or GW101-3H11_contig_1_2500 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2849)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022) or (GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4067 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2500)",
 "notes":{
 "modelseed_complex":"cpx00454;cpx00666"
 },
@@ -16847,7 +16847,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_1089 or GW101-3H11_contig_1_1153",
+"gene_reaction_rule":"GW101-3H11_contig_1_1153 or GW101-3H11_contig_1_1089",
 "notes":{
 "modelseed_complex":"cpx00115;tcpx00167"
 },
@@ -16890,7 +16890,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1697 and (GW101-3H11_contig_1_3655 or GW101-3H11_contig_1_3342 or GW101-3H11_contig_1_3854) and GW101-3H11_contig_1_74 and (GW101-3H11_contig_1_3656 or GW101-3H11_contig_1_1695) and (GW101-3H11_contig_1_77 or GW101-3H11_contig_1_3343 or GW101-3H11_contig_1_3383 or GW101-3H11_contig_1_860 or GW101-3H11_contig_1_281 or GW101-3H11_contig_1_665) and (GW101-3H11_contig_1_73 or GW101-3H11_contig_1_1694 or GW101-3H11_contig_1_661 or GW101-3H11_contig_1_3382 or GW101-3H11_contig_1_282 or GW101-3H11_contig_1_859) and (GW101-3H11_contig_1_1690 or GW101-3H11_contig_1_2720 or GW101-3H11_contig_1_4434) and (GW101-3H11_contig_1_3857 or GW101-3H11_contig_1_3658) and GW101-3H11_contig_1_3855 and GW101-3H11_contig_1_3856",
+"gene_reaction_rule":"GW101-3H11_contig_1_1697 and (GW101-3H11_contig_1_3854 or GW101-3H11_contig_1_3655 or GW101-3H11_contig_1_3342) and GW101-3H11_contig_1_74 and (GW101-3H11_contig_1_1695 or GW101-3H11_contig_1_3656) and (GW101-3H11_contig_1_860 or GW101-3H11_contig_1_665 or GW101-3H11_contig_1_3383 or GW101-3H11_contig_1_3343 or GW101-3H11_contig_1_281 or GW101-3H11_contig_1_77) and (GW101-3H11_contig_1_282 or GW101-3H11_contig_1_73 or GW101-3H11_contig_1_3382 or GW101-3H11_contig_1_661 or GW101-3H11_contig_1_859 or GW101-3H11_contig_1_1694) and (GW101-3H11_contig_1_2720 or GW101-3H11_contig_1_1690 or GW101-3H11_contig_1_4434) and (GW101-3H11_contig_1_3857 or GW101-3H11_contig_1_3658) and GW101-3H11_contig_1_3855 and GW101-3H11_contig_1_3856",
 "notes":{
 "modelseed_complex":"tcpx00675"
 },
@@ -16953,7 +16953,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -17077,7 +17077,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -17201,7 +17201,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -17223,7 +17223,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -17286,7 +17286,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -17395,7 +17395,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2975 or GW101-3H11_contig_1_2722",
+"gene_reaction_rule":"GW101-3H11_contig_1_2722 or GW101-3H11_contig_1_2975",
 "notes":{
 "modelseed_complex":"cpx00381;cpx00654"
 },
@@ -17435,7 +17435,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4523 or GW101-3H11_contig_1_1351 or GW101-3H11_contig_1_3448 or GW101-3H11_contig_1_127",
+"gene_reaction_rule":"GW101-3H11_contig_1_127 or GW101-3H11_contig_1_3448 or GW101-3H11_contig_1_4523 or GW101-3H11_contig_1_1351",
 "notes":{
 "modelseed_complex":"cpx00827"
 },
@@ -17453,7 +17453,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3627 or GW101-3H11_contig_1_385 or GW101-3H11_contig_1_311",
+"gene_reaction_rule":"GW101-3H11_contig_1_385 or GW101-3H11_contig_1_311 or GW101-3H11_contig_1_3627",
 "notes":{
 "modelseed_complex":"cpx01115"
 },
@@ -17474,7 +17474,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -17558,7 +17558,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -17597,7 +17597,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3130 or GW101-3H11_contig_1_2251",
+"gene_reaction_rule":"GW101-3H11_contig_1_2251 or GW101-3H11_contig_1_3130",
 "notes":{
 "modelseed_complex":"cpx00302"
 },
@@ -17639,7 +17639,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_1947 or GW101-3H11_contig_1_3787",
+"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_3787 or GW101-3H11_contig_1_1947",
 "notes":{
 "modelseed_complex":"tcpx00044"
 },
@@ -17680,7 +17680,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4778 or GW101-3H11_contig_1_4779 or GW101-3H11_contig_1_766",
+"gene_reaction_rule":"GW101-3H11_contig_1_4779 or GW101-3H11_contig_1_766 or GW101-3H11_contig_1_4778",
 "notes":{
 "modelseed_complex":"cpx00193"
 },
@@ -17703,7 +17703,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4610 or GW101-3H11_contig_1_968 or GW101-3H11_contig_1_969 or GW101-3H11_contig_1_2431 or GW101-3H11_contig_1_4904 or GW101-3H11_contig_1_1879 or GW101-3H11_contig_1_1164 or GW101-3H11_contig_1_1163) and (GW101-3H11_contig_1_967 or GW101-3H11_contig_1_4609 or GW101-3H11_contig_1_4905 or GW101-3H11_contig_1_1165 or GW101-3H11_contig_1_2432 or GW101-3H11_contig_1_1878) and (GW101-3H11_contig_1_964 or GW101-3H11_contig_1_1166 or GW101-3H11_contig_1_4608 or GW101-3H11_contig_1_2433 or GW101-3H11_contig_1_1877 or GW101-3H11_contig_1_4906)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_968 or GW101-3H11_contig_1_1163 or GW101-3H11_contig_1_1879 or GW101-3H11_contig_1_969 or GW101-3H11_contig_1_1164 or GW101-3H11_contig_1_2431 or GW101-3H11_contig_1_4904 or GW101-3H11_contig_1_4610) and (GW101-3H11_contig_1_2432 or GW101-3H11_contig_1_967 or GW101-3H11_contig_1_1878 or GW101-3H11_contig_1_4609 or GW101-3H11_contig_1_4905 or GW101-3H11_contig_1_1165) and (GW101-3H11_contig_1_4608 or GW101-3H11_contig_1_2433 or GW101-3H11_contig_1_964 or GW101-3H11_contig_1_1166 or GW101-3H11_contig_1_1877 or GW101-3H11_contig_1_4906)",
 "notes":{
 "modelseed_complex":"tcpx00679"
 },
@@ -17724,7 +17724,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -17765,7 +17765,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4407 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_1861",
+"gene_reaction_rule":"GW101-3H11_contig_1_1861 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_4407",
 "notes":{
 "modelseed_complex":"tcpx00353"
 },
@@ -17932,7 +17932,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4407 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_1861",
+"gene_reaction_rule":"GW101-3H11_contig_1_1861 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_4407",
 "notes":{
 "modelseed_complex":"cpx00040"
 },
@@ -17991,7 +17991,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4599 or GW101-3H11_contig_1_4598 or GW101-3H11_contig_1_4596",
+"gene_reaction_rule":"GW101-3H11_contig_1_4598 or GW101-3H11_contig_1_4599 or GW101-3H11_contig_1_4596",
 "notes":{
 "modelseed_complex":"tcpx00727;tcpx00728;tcpx00729"
 },
@@ -18012,7 +18012,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -18052,7 +18052,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -18233,7 +18233,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -18254,7 +18254,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_4237 or GW101-3H11_contig_1_3827 or GW101-3H11_contig_1_1349 or GW101-3H11_contig_1_498",
+"gene_reaction_rule":"GW101-3H11_contig_1_498 or GW101-3H11_contig_1_4237 or GW101-3H11_contig_1_1349 or GW101-3H11_contig_1_3827",
 "notes":{
 "modelseed_complex":"cpx01012"
 },
@@ -18295,7 +18295,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -18357,7 +18357,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -18399,7 +18399,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -18502,7 +18502,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4121 or GW101-3H11_contig_1_884",
+"gene_reaction_rule":"GW101-3H11_contig_1_884 or GW101-3H11_contig_1_4121",
 "notes":{
 "modelseed_complex":"cpx01210"
 },
@@ -18566,7 +18566,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3086 and GW101-3H11_contig_1_3085 and (GW101-3H11_contig_1_3237 or GW101-3H11_contig_1_3088) and GW101-3H11_contig_1_3087) or GW101-3H11_contig_1_770",
+"gene_reaction_rule":"GW101-3H11_contig_1_770 or (GW101-3H11_contig_1_3086 and GW101-3H11_contig_1_3085 and (GW101-3H11_contig_1_3088 or GW101-3H11_contig_1_3237) and GW101-3H11_contig_1_3087)",
 "notes":{
 "modelseed_complex":"tcpx00586;tcpx01212"
 },
@@ -18671,7 +18671,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_1947 or GW101-3H11_contig_1_3787",
+"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_3787 or GW101-3H11_contig_1_1947",
 "notes":{
 "modelseed_complex":"tcpx00044"
 },
@@ -18692,7 +18692,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -18732,7 +18732,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -18938,7 +18938,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -18959,7 +18959,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2980 or GW101-3H11_contig_1_854)",
+"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_854 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_2980)",
 "notes":{
 "modelseed_complex":"cpx01599;tcpx00306"
 },
@@ -19245,7 +19245,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -19366,7 +19366,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -19592,7 +19592,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -19615,7 +19615,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4768 or GW101-3H11_contig_1_3472",
+"gene_reaction_rule":"GW101-3H11_contig_1_3472 or GW101-3H11_contig_1_4768",
 "notes":{
 "modelseed_complex":"cpx01030"
 },
@@ -19674,7 +19674,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -19692,7 +19692,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2225 or (GW101-3H11_contig_1_2225 or GW101-3H11_contig_1_3440)",
+"gene_reaction_rule":"GW101-3H11_contig_1_2225 or (GW101-3H11_contig_1_3440 or GW101-3H11_contig_1_2225)",
 "notes":{
 "modelseed_complex":"cpx00845;cpx52729"
 },
@@ -19858,7 +19858,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3029 or GW101-3H11_contig_1_1023",
+"gene_reaction_rule":"GW101-3H11_contig_1_1023 or GW101-3H11_contig_1_3029",
 "notes":{
 "modelseed_complex":"cpx01891"
 },
@@ -20005,7 +20005,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -20293,7 +20293,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -20313,7 +20313,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4811 or GW101-3H11_contig_1_3155 or GW101-3H11_contig_1_2601",
+"gene_reaction_rule":"GW101-3H11_contig_1_3155 or GW101-3H11_contig_1_4811 or GW101-3H11_contig_1_2601",
 "notes":{
 "modelseed_complex":"cpx01252"
 },
@@ -20354,7 +20354,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -20420,7 +20420,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2738 or GW101-3H11_contig_1_1557",
+"gene_reaction_rule":"GW101-3H11_contig_1_1557 or GW101-3H11_contig_1_2738",
 "notes":{
 "modelseed_complex":"cpx52636"
 },
@@ -20562,7 +20562,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_415 or GW101-3H11_contig_1_4635",
+"gene_reaction_rule":"GW101-3H11_contig_1_4635 or GW101-3H11_contig_1_415",
 "notes":{
 "modelseed_complex":"cpx52446"
 },
@@ -20604,7 +20604,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -20745,7 +20745,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -20766,7 +20766,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -20873,7 +20873,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -20893,7 +20893,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_2353 or GW101-3H11_contig_1_605 or GW101-3H11_contig_1_2598) or (GW101-3H11_contig_1_2419 or GW101-3H11_contig_1_605 or GW101-3H11_contig_1_2598) or GW101-3H11_contig_1_2552",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2419 or GW101-3H11_contig_1_2598 or GW101-3H11_contig_1_605) or (GW101-3H11_contig_1_2353 or GW101-3H11_contig_1_2598 or GW101-3H11_contig_1_605) or GW101-3H11_contig_1_2552",
 "notes":{
 "modelseed_complex":"cpx00373;cpx00374;cpx00375"
 },
@@ -20973,7 +20973,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_2805 and GW101-3H11_contig_1_2804) or (GW101-3H11_contig_1_4068 and GW101-3H11_contig_1_4069)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4068 and GW101-3H11_contig_1_4069) or (GW101-3H11_contig_1_2805 and GW101-3H11_contig_1_2804)",
 "notes":{
 "modelseed_complex":"tcpx00213;tcpx00438"
 },
@@ -21119,7 +21119,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -21160,7 +21160,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2974 or GW101-3H11_contig_1_4133",
+"gene_reaction_rule":"GW101-3H11_contig_1_4133 or GW101-3H11_contig_1_2974",
 "notes":{
 "modelseed_complex":"cpx00573"
 },
@@ -21221,7 +21221,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2225 or (GW101-3H11_contig_1_2225 or GW101-3H11_contig_1_3440)",
+"gene_reaction_rule":"GW101-3H11_contig_1_2225 or (GW101-3H11_contig_1_3440 or GW101-3H11_contig_1_2225)",
 "notes":{
 "modelseed_complex":"cpx00845;cpx52729"
 },
@@ -21241,7 +21241,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_28 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_3522",
+"gene_reaction_rule":"GW101-3H11_contig_1_3522 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_28",
 "notes":{
 "modelseed_complex":"cpx00571"
 },
@@ -21282,7 +21282,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -21344,7 +21344,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_4237 or GW101-3H11_contig_1_3827 or GW101-3H11_contig_1_1349 or GW101-3H11_contig_1_498",
+"gene_reaction_rule":"GW101-3H11_contig_1_498 or GW101-3H11_contig_1_4237 or GW101-3H11_contig_1_1349 or GW101-3H11_contig_1_3827",
 "notes":{
 "modelseed_complex":"cpx01012"
 },
@@ -21384,7 +21384,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -21697,7 +21697,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_525 or GW101-3H11_contig_1_4318",
+"gene_reaction_rule":"GW101-3H11_contig_1_4318 or GW101-3H11_contig_1_525",
 "notes":{
 "modelseed_complex":"tcpx00273"
 },
@@ -21738,7 +21738,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -21778,7 +21778,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -21899,7 +21899,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1959 and GW101-3H11_contig_1_4487 and GW101-3H11_contig_1_3863 and GW101-3H11_contig_1_785 and GW101-3H11_contig_1_4499 and GW101-3H11_contig_1_3746 and GW101-3H11_contig_1_3917 and GW101-3H11_contig_1_1170 and GW101-3H11_contig_1_1817 and GW101-3H11_contig_1_425 and GW101-3H11_contig_1_3864 and GW101-3H11_contig_1_485 and GW101-3H11_contig_1_4501 and GW101-3H11_contig_1_423 and GW101-3H11_contig_1_1539 and GW101-3H11_contig_1_4576 and GW101-3H11_contig_1_371 and (GW101-3H11_contig_1_4494 or GW101-3H11_contig_1_589) and GW101-3H11_contig_1_482 and GW101-3H11_contig_1_420 and GW101-3H11_contig_1_430 and GW101-3H11_contig_1_3678 and GW101-3H11_contig_1_4258 and GW101-3H11_contig_1_3848 and GW101-3H11_contig_1_422 and GW101-3H11_contig_1_4816 and GW101-3H11_contig_1_3403 and GW101-3H11_contig_1_484 and GW101-3H11_contig_1_427 and GW101-3H11_contig_1_426 and GW101-3H11_contig_1_1960 and GW101-3H11_contig_1_3845 and GW101-3H11_contig_1_3878 and GW101-3H11_contig_1_1111 and GW101-3H11_contig_1_417 and GW101-3H11_contig_1_429 and GW101-3H11_contig_1_1433 and GW101-3H11_contig_1_3407 and GW101-3H11_contig_1_2718 and GW101-3H11_contig_1_1957 and GW101-3H11_contig_1_4252 and GW101-3H11_contig_1_4498 and GW101-3H11_contig_1_2192 and GW101-3H11_contig_1_3930 and GW101-3H11_contig_1_4616 and GW101-3H11_contig_1_4497 and GW101-3H11_contig_1_3724 and GW101-3H11_contig_1_428 and GW101-3H11_contig_1_3620 and GW101-3H11_contig_1_4492 and GW101-3H11_contig_1_4500 and GW101-3H11_contig_1_483 and GW101-3H11_contig_1_1654 and GW101-3H11_contig_1_3677 and GW101-3H11_contig_1_4489 and GW101-3H11_contig_1_1110 and GW101-3H11_contig_1_4956 and GW101-3H11_contig_1_4259 and GW101-3H11_contig_1_421 and GW101-3H11_contig_1_3079 and GW101-3H11_contig_1_4496 and GW101-3H11_contig_1_416 and GW101-3H11_contig_1_4493 and GW101-3H11_contig_1_4490 and GW101-3H11_contig_1_4488 and GW101-3H11_contig_1_3966 and GW101-3H11_contig_1_4485 and GW101-3H11_contig_1_4495 and GW101-3H11_contig_1_424 and GW101-3H11_contig_1_3125 and GW101-3H11_contig_1_786 and GW101-3H11_contig_1_3679 and GW101-3H11_contig_1_1958 and GW101-3H11_contig_1_1955 and GW101-3H11_contig_1_1141 and GW101-3H11_contig_1_373 and GW101-3H11_contig_1_372",
+"gene_reaction_rule":"GW101-3H11_contig_1_1959 and GW101-3H11_contig_1_4487 and GW101-3H11_contig_1_3863 and GW101-3H11_contig_1_785 and GW101-3H11_contig_1_4499 and GW101-3H11_contig_1_3746 and GW101-3H11_contig_1_3917 and GW101-3H11_contig_1_1170 and GW101-3H11_contig_1_1817 and GW101-3H11_contig_1_425 and GW101-3H11_contig_1_3864 and GW101-3H11_contig_1_485 and GW101-3H11_contig_1_4501 and GW101-3H11_contig_1_423 and GW101-3H11_contig_1_1539 and GW101-3H11_contig_1_4576 and GW101-3H11_contig_1_371 and (GW101-3H11_contig_1_589 or GW101-3H11_contig_1_4494) and GW101-3H11_contig_1_482 and GW101-3H11_contig_1_420 and GW101-3H11_contig_1_430 and GW101-3H11_contig_1_3678 and GW101-3H11_contig_1_4258 and GW101-3H11_contig_1_3848 and GW101-3H11_contig_1_422 and GW101-3H11_contig_1_4816 and GW101-3H11_contig_1_3403 and GW101-3H11_contig_1_484 and GW101-3H11_contig_1_427 and GW101-3H11_contig_1_426 and GW101-3H11_contig_1_1960 and GW101-3H11_contig_1_3845 and GW101-3H11_contig_1_3878 and GW101-3H11_contig_1_1111 and GW101-3H11_contig_1_417 and GW101-3H11_contig_1_429 and GW101-3H11_contig_1_1433 and GW101-3H11_contig_1_3407 and GW101-3H11_contig_1_2718 and GW101-3H11_contig_1_1957 and GW101-3H11_contig_1_4252 and GW101-3H11_contig_1_4498 and GW101-3H11_contig_1_2192 and GW101-3H11_contig_1_3930 and GW101-3H11_contig_1_4616 and GW101-3H11_contig_1_4497 and GW101-3H11_contig_1_3724 and GW101-3H11_contig_1_428 and GW101-3H11_contig_1_3620 and GW101-3H11_contig_1_4492 and GW101-3H11_contig_1_4500 and GW101-3H11_contig_1_483 and GW101-3H11_contig_1_1654 and GW101-3H11_contig_1_3677 and GW101-3H11_contig_1_4489 and GW101-3H11_contig_1_1110 and GW101-3H11_contig_1_4956 and GW101-3H11_contig_1_4259 and GW101-3H11_contig_1_421 and GW101-3H11_contig_1_3079 and GW101-3H11_contig_1_4496 and GW101-3H11_contig_1_416 and GW101-3H11_contig_1_4493 and GW101-3H11_contig_1_4490 and GW101-3H11_contig_1_4488 and GW101-3H11_contig_1_3966 and GW101-3H11_contig_1_4485 and GW101-3H11_contig_1_4495 and GW101-3H11_contig_1_424 and GW101-3H11_contig_1_3125 and GW101-3H11_contig_1_786 and GW101-3H11_contig_1_3679 and GW101-3H11_contig_1_1958 and GW101-3H11_contig_1_1955 and GW101-3H11_contig_1_1141 and GW101-3H11_contig_1_373 and GW101-3H11_contig_1_372",
 "notes":{
 "modelseed_complex":"tcpx01182"
 },
@@ -21921,7 +21921,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -22038,7 +22038,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1074 or GW101-3H11_contig_1_2669 or (GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_28 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_3522) or GW101-3H11_contig_1_2669",
+"gene_reaction_rule":"GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2669 or (GW101-3H11_contig_1_3522 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_28) or GW101-3H11_contig_1_1074",
 "notes":{
 "modelseed_complex":"cpx00571;cpx00578;cpx01690;tcpx01256"
 },
@@ -22182,7 +22182,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -22325,7 +22325,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3873 or GW101-3H11_contig_1_2073) or GW101-3H11_contig_1_4314 or (GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2073 or GW101-3H11_contig_1_3873) or (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984) or GW101-3H11_contig_1_4314",
 "notes":{
 "modelseed_complex":"tcpx00049;tcpx00054;tcpx00282"
 },
@@ -22409,7 +22409,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -22469,7 +22469,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -22702,7 +22702,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -22724,7 +22724,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -22787,7 +22787,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -22890,7 +22890,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_1078 and (GW101-3H11_contig_1_3712 or GW101-3H11_contig_1_1076)",
+"gene_reaction_rule":"GW101-3H11_contig_1_1078 and (GW101-3H11_contig_1_1076 or GW101-3H11_contig_1_3712)",
 "notes":{
 "modelseed_complex":"tcpx00145"
 },
@@ -22975,7 +22975,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -23137,7 +23137,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4163 or (GW101-3H11_contig_1_2204 or GW101-3H11_contig_1_3571)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3571 or GW101-3H11_contig_1_2204) or GW101-3H11_contig_1_4163",
 "notes":{
 "modelseed_complex":"tcpx00319;tcpx00320"
 },
@@ -23221,7 +23221,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1525 and (GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284)",
+"gene_reaction_rule":"GW101-3H11_contig_1_1525 and (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984)",
 "notes":{
 "modelseed_complex":"tcpx01116"
 },
@@ -23366,7 +23366,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -23621,7 +23621,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -23642,7 +23642,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -23663,7 +23663,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -23726,7 +23726,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_1947 or GW101-3H11_contig_1_3787",
+"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_3787 or GW101-3H11_contig_1_1947",
 "notes":{
 "modelseed_complex":"tcpx00044"
 },
@@ -23830,7 +23830,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1325 or GW101-3H11_contig_1_4939",
+"gene_reaction_rule":"GW101-3H11_contig_1_4939 or GW101-3H11_contig_1_1325",
 "notes":{
 "modelseed_complex":"cpx01302"
 },
@@ -23999,7 +23999,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284) or GW101-3H11_contig_1_4314",
+"gene_reaction_rule":"(GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984) or GW101-3H11_contig_1_4314",
 "notes":{
 "modelseed_complex":"tcpx00049;tcpx00282"
 },
@@ -24056,7 +24056,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -24141,7 +24141,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -24307,7 +24307,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2742 or GW101-3H11_contig_1_1803",
+"gene_reaction_rule":"GW101-3H11_contig_1_1803 or GW101-3H11_contig_1_2742",
 "notes":{
 "modelseed_complex":"cpx00470;tcpx01279"
 },
@@ -24330,7 +24330,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3806 or GW101-3H11_contig_1_3327 or GW101-3H11_contig_1_877 or GW101-3H11_contig_1_3766 or GW101-3H11_contig_1_3804 or GW101-3H11_contig_1_876) and GW101-3H11_contig_1_879 and GW101-3H11_contig_1_880 and GW101-3H11_contig_1_878",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3766 or GW101-3H11_contig_1_876 or GW101-3H11_contig_1_877 or GW101-3H11_contig_1_3806 or GW101-3H11_contig_1_3327 or GW101-3H11_contig_1_3804) and GW101-3H11_contig_1_879 and GW101-3H11_contig_1_880 and GW101-3H11_contig_1_878",
 "notes":{
 "modelseed_complex":"tcpx00684"
 },
@@ -24413,7 +24413,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -24514,7 +24514,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -24658,7 +24658,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -24720,7 +24720,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or GW101-3H11_contig_1_838",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -24951,7 +24951,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -25073,7 +25073,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980) or GW101-3H11_contig_1_854",
+"gene_reaction_rule":"GW101-3H11_contig_1_854 or (GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980)",
 "notes":{
 "modelseed_complex":"cpx00206;cpx01687"
 },
@@ -25135,7 +25135,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3029 or GW101-3H11_contig_1_1023) and GW101-3H11_contig_1_3108 and GW101-3H11_contig_1_3107",
+"gene_reaction_rule":"(GW101-3H11_contig_1_1023 or GW101-3H11_contig_1_3029) and GW101-3H11_contig_1_3108 and GW101-3H11_contig_1_3107",
 "notes":{
 "modelseed_complex":"tcpx00403"
 },
@@ -25376,7 +25376,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4523 or GW101-3H11_contig_1_1351 or GW101-3H11_contig_1_3448 or GW101-3H11_contig_1_127",
+"gene_reaction_rule":"GW101-3H11_contig_1_127 or GW101-3H11_contig_1_3448 or GW101-3H11_contig_1_4523 or GW101-3H11_contig_1_1351",
 "notes":{
 "modelseed_complex":"cpx00827"
 },
@@ -25437,7 +25437,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1516 or GW101-3H11_contig_1_2494 or GW101-3H11_contig_1_2047 or GW101-3H11_contig_1_1304 or GW101-3H11_contig_1_535",
+"gene_reaction_rule":"GW101-3H11_contig_1_1516 or GW101-3H11_contig_1_2047 or GW101-3H11_contig_1_2494 or GW101-3H11_contig_1_535 or GW101-3H11_contig_1_1304",
 "notes":{
 "modelseed_complex":"tcpx01141"
 },
@@ -25457,7 +25457,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_882 or GW101-3H11_contig_1_4514 or GW101-3H11_contig_1_2171 or GW101-3H11_contig_1_4931",
+"gene_reaction_rule":"GW101-3H11_contig_1_2171 or GW101-3H11_contig_1_4514 or GW101-3H11_contig_1_4931 or GW101-3H11_contig_1_882",
 "notes":{
 "modelseed_complex":"tcpx01348"
 },
@@ -25498,7 +25498,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or GW101-3H11_contig_1_838",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -25540,7 +25540,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1651 or GW101-3H11_contig_1_3170 or GW101-3H11_contig_1_2901",
+"gene_reaction_rule":"GW101-3H11_contig_1_1651 or GW101-3H11_contig_1_2901 or GW101-3H11_contig_1_3170",
 "notes":{
 "modelseed_complex":"tcpx00391"
 },
@@ -25581,7 +25581,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4164 or GW101-3H11_contig_1_4165",
+"gene_reaction_rule":"GW101-3H11_contig_1_4165 or GW101-3H11_contig_1_4164",
 "notes":{
 "modelseed_complex":"cpx00767;cpx00769"
 },
@@ -25619,7 +25619,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3805 or GW101-3H11_contig_1_328",
+"gene_reaction_rule":"GW101-3H11_contig_1_328 or GW101-3H11_contig_1_3805",
 "notes":{
 "modelseed_complex":"cpx00627;tcpx00030"
 },
@@ -25683,7 +25683,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_249 or GW101-3H11_contig_1_3579) or GW101-3H11_contig_1_1055 or (GW101-3H11_contig_1_1054 or GW101-3H11_contig_1_2290 or GW101-3H11_contig_1_741 or GW101-3H11_contig_1_2299 or GW101-3H11_contig_1_4025)",
+"gene_reaction_rule":"GW101-3H11_contig_1_1055 or (GW101-3H11_contig_1_4025 or GW101-3H11_contig_1_2299 or GW101-3H11_contig_1_2290 or GW101-3H11_contig_1_741 or GW101-3H11_contig_1_1054) or (GW101-3H11_contig_1_249 or GW101-3H11_contig_1_3579)",
 "notes":{
 "modelseed_complex":"cpx00965;tcpx00280;tcpx00281"
 },
@@ -25724,7 +25724,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2364 or GW101-3H11_contig_1_1318",
+"gene_reaction_rule":"GW101-3H11_contig_1_1318 or GW101-3H11_contig_1_2364",
 "notes":{
 "modelseed_complex":"cpx00487"
 },
@@ -25745,7 +25745,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -25850,7 +25850,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"((GW101-3H11_contig_1_981 or GW101-3H11_contig_1_3252) and (GW101-3H11_contig_1_3253 or GW101-3H11_contig_1_980)) or GW101-3H11_contig_1_979",
+"gene_reaction_rule":"GW101-3H11_contig_1_979 or ((GW101-3H11_contig_1_3252 or GW101-3H11_contig_1_981) and (GW101-3H11_contig_1_3253 or GW101-3H11_contig_1_980))",
 "notes":{
 "modelseed_complex":"tcpx00591;tcpx00594"
 },
@@ -25912,7 +25912,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -25954,7 +25954,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2974 or GW101-3H11_contig_1_4133",
+"gene_reaction_rule":"GW101-3H11_contig_1_4133 or GW101-3H11_contig_1_2974",
 "notes":{
 "modelseed_complex":"cpx00573"
 },
@@ -26058,7 +26058,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -26078,7 +26078,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_1947 or GW101-3H11_contig_1_3787",
+"gene_reaction_rule":"GW101-3H11_contig_1_3928 or GW101-3H11_contig_1_3787 or GW101-3H11_contig_1_1947",
 "notes":{
 "modelseed_complex":"tcpx00044"
 },
@@ -26101,7 +26101,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -26120,7 +26120,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -26160,7 +26160,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4788 or GW101-3H11_contig_1_325 or GW101-3H11_contig_1_2051",
+"gene_reaction_rule":"GW101-3H11_contig_1_2051 or GW101-3H11_contig_1_325 or GW101-3H11_contig_1_4788",
 "notes":{
 "modelseed_complex":"cpx01315"
 },
@@ -26220,7 +26220,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3686 or GW101-3H11_contig_1_3688",
+"gene_reaction_rule":"GW101-3H11_contig_1_3688 or GW101-3H11_contig_1_3686",
 "notes":{
 "modelseed_complex":"cpx01169;cpx01170"
 },
@@ -26243,7 +26243,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043) or GW101-3H11_contig_1_4299 or GW101-3H11_contig_1_185",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760) or GW101-3H11_contig_1_185 or GW101-3H11_contig_1_4299",
 "notes":{
 "modelseed_complex":"cpx00498;cpx00499;cpx00912"
 },
@@ -26451,7 +26451,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3806 or GW101-3H11_contig_1_3327 or GW101-3H11_contig_1_877 or GW101-3H11_contig_1_3766 or GW101-3H11_contig_1_3804 or GW101-3H11_contig_1_876) and GW101-3H11_contig_1_880 and GW101-3H11_contig_1_878 and GW101-3H11_contig_1_879",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3766 or GW101-3H11_contig_1_876 or GW101-3H11_contig_1_877 or GW101-3H11_contig_1_3806 or GW101-3H11_contig_1_3327 or GW101-3H11_contig_1_3804) and GW101-3H11_contig_1_880 and GW101-3H11_contig_1_878 and GW101-3H11_contig_1_879",
 "notes":{
 "modelseed_complex":"tcpx00626"
 },
@@ -26496,7 +26496,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4163 or (GW101-3H11_contig_1_2204 or GW101-3H11_contig_1_3571)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3571 or GW101-3H11_contig_1_2204) or GW101-3H11_contig_1_4163",
 "notes":{
 "modelseed_complex":"tcpx00319;tcpx00320"
 },
@@ -26576,7 +26576,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2898 or GW101-3H11_contig_1_2897 or GW101-3H11_contig_1_3314 or GW101-3H11_contig_1_3313",
+"gene_reaction_rule":"GW101-3H11_contig_1_3313 or GW101-3H11_contig_1_2898 or GW101-3H11_contig_1_2897 or GW101-3H11_contig_1_3314",
 "notes":{
 "modelseed_complex":"cpx01348;cpx01351;tcpx00163;tcpx00164"
 },
@@ -26639,7 +26639,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_3021 or GW101-3H11_contig_1_3020 or (GW101-3H11_contig_1_222 and (GW101-3H11_contig_1_3417 or GW101-3H11_contig_1_2647))",
+"gene_reaction_rule":"(GW101-3H11_contig_1_222 and (GW101-3H11_contig_1_3417 or GW101-3H11_contig_1_2647)) or GW101-3H11_contig_1_3020 or GW101-3H11_contig_1_3021",
 "notes":{
 "modelseed_complex":"tcpx00228;tcpx00229;tcpx00230"
 },
@@ -26720,7 +26720,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_3290 or GW101-3H11_contig_1_82 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_638",
+"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_3290 or GW101-3H11_contig_1_638 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_82",
 "notes":{
 "modelseed_complex":"cpx01697"
 },
@@ -26780,7 +26780,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_3647 or GW101-3H11_contig_1_1149",
+"gene_reaction_rule":"GW101-3H11_contig_1_1149 or GW101-3H11_contig_1_3647",
 "notes":{
 "modelseed_complex":"cpx00982"
 },
@@ -26820,7 +26820,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3919 or GW101-3H11_contig_1_1305 or GW101-3H11_contig_1_2236 or GW101-3H11_contig_1_4685 or GW101-3H11_contig_1_2991 or GW101-3H11_contig_1_693 or GW101-3H11_contig_1_3924 or GW101-3H11_contig_1_2717 or GW101-3H11_contig_1_4755",
+"gene_reaction_rule":"GW101-3H11_contig_1_2717 or GW101-3H11_contig_1_3924 or GW101-3H11_contig_1_693 or GW101-3H11_contig_1_2236 or GW101-3H11_contig_1_3919 or GW101-3H11_contig_1_2991 or GW101-3H11_contig_1_4755 or GW101-3H11_contig_1_1305 or GW101-3H11_contig_1_4685",
 "notes":{
 "modelseed_complex":"cpx01564"
 },
@@ -26840,7 +26840,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4778 or GW101-3H11_contig_1_4779 or GW101-3H11_contig_1_766",
+"gene_reaction_rule":"GW101-3H11_contig_1_4779 or GW101-3H11_contig_1_766 or GW101-3H11_contig_1_4778",
 "notes":{
 "modelseed_complex":"cpx00193"
 },
@@ -26902,7 +26902,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_392 or (GW101-3H11_contig_1_2038 or GW101-3H11_contig_1_3885 or GW101-3H11_contig_1_3618 or GW101-3H11_contig_1_2282)",
+"gene_reaction_rule":"GW101-3H11_contig_1_392 or (GW101-3H11_contig_1_2282 or GW101-3H11_contig_1_2038 or GW101-3H11_contig_1_3618 or GW101-3H11_contig_1_3885)",
 "notes":{
 "modelseed_complex":"cpx00019;tcpx00331"
 },
@@ -26967,7 +26967,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or GW101-3H11_contig_1_838",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -27050,7 +27050,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_1280 and GW101-3H11_contig_1_1281 and GW101-3H11_contig_1_1283) or GW101-3H11_contig_1_1311 or GW101-3H11_contig_1_1278 or (GW101-3H11_contig_1_1276 or GW101-3H11_contig_1_1259) or GW101-3H11_contig_1_1277",
+"gene_reaction_rule":"GW101-3H11_contig_1_1278 or GW101-3H11_contig_1_1277 or (GW101-3H11_contig_1_1280 and GW101-3H11_contig_1_1281 and GW101-3H11_contig_1_1283) or GW101-3H11_contig_1_1311 or (GW101-3H11_contig_1_1276 or GW101-3H11_contig_1_1259)",
 "notes":{
 "modelseed_complex":"cpx01893;tcpx01233;tcpx01234;tcpx01235;tcpx01236"
 },
@@ -27071,7 +27071,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_158 or GW101-3H11_contig_1_3263 or GW101-3H11_contig_1_158 or GW101-3H11_contig_1_3263",
+"gene_reaction_rule":"GW101-3H11_contig_1_158 or GW101-3H11_contig_1_158 or GW101-3H11_contig_1_3263 or GW101-3H11_contig_1_3263",
 "notes":{
 "modelseed_complex":"cpx00910;cpx52754;cpx52755;cpx52757"
 },
@@ -27279,7 +27279,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -27301,7 +27301,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2227 and GW101-3H11_contig_1_2344 and GW101-3H11_contig_1_3459 and GW101-3H11_contig_1_1 and GW101-3H11_contig_1_3 and GW101-3H11_contig_1_2660 and GW101-3H11_contig_1_2 and (GW101-3H11_contig_1_2484 or GW101-3H11_contig_1_2098) and GW101-3H11_contig_1_4838 and GW101-3H11_contig_1_4430 and GW101-3H11_contig_1_2403 and GW101-3H11_contig_1_2309 and GW101-3H11_contig_1_3971 and GW101-3H11_contig_1_1469 and GW101-3H11_contig_1_1810 and GW101-3H11_contig_1_3073 and GW101-3H11_contig_1_4603",
+"gene_reaction_rule":"GW101-3H11_contig_1_2227 and GW101-3H11_contig_1_2344 and GW101-3H11_contig_1_3459 and GW101-3H11_contig_1_1 and GW101-3H11_contig_1_3 and GW101-3H11_contig_1_2660 and GW101-3H11_contig_1_2 and (GW101-3H11_contig_1_2098 or GW101-3H11_contig_1_2484) and GW101-3H11_contig_1_4838 and GW101-3H11_contig_1_4430 and GW101-3H11_contig_1_2403 and GW101-3H11_contig_1_2309 and GW101-3H11_contig_1_3971 and GW101-3H11_contig_1_1469 and GW101-3H11_contig_1_1810 and GW101-3H11_contig_1_3073 and GW101-3H11_contig_1_4603",
 "notes":{
 "modelseed_complex":"tcpx01183"
 },
@@ -27343,7 +27343,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -27550,7 +27550,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2878 and GW101-3H11_contig_1_2877 and GW101-3H11_contig_1_2876 and (GW101-3H11_contig_1_2879 or GW101-3H11_contig_1_2960)",
+"gene_reaction_rule":"GW101-3H11_contig_1_2878 and GW101-3H11_contig_1_2877 and GW101-3H11_contig_1_2876 and (GW101-3H11_contig_1_2960 or GW101-3H11_contig_1_2879)",
 "notes":{
 "modelseed_complex":"cpx00285"
 },
@@ -27592,7 +27592,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -27783,7 +27783,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_28 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_3522) or GW101-3H11_contig_1_3242 or GW101-3H11_contig_1_2669",
+"gene_reaction_rule":"GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_3242 or (GW101-3H11_contig_1_3522 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_28)",
 "notes":{
 "modelseed_complex":"cpx00571;cpx00578;tcpx00270"
 },
@@ -27804,7 +27804,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3873 or GW101-3H11_contig_1_2073) or (GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2073 or GW101-3H11_contig_1_3873) or (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -27891,7 +27891,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -27932,7 +27932,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -27974,7 +27974,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_130 or GW101-3H11_contig_1_2422",
+"gene_reaction_rule":"GW101-3H11_contig_1_2422 or GW101-3H11_contig_1_130",
 "notes":{
 "modelseed_complex":"cpx00073"
 },
@@ -28038,7 +28038,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -28078,7 +28078,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4523 or GW101-3H11_contig_1_1351 or GW101-3H11_contig_1_3448 or GW101-3H11_contig_1_127",
+"gene_reaction_rule":"GW101-3H11_contig_1_127 or GW101-3H11_contig_1_3448 or GW101-3H11_contig_1_4523 or GW101-3H11_contig_1_1351",
 "notes":{
 "modelseed_complex":"cpx00827"
 },
@@ -28159,7 +28159,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -28264,7 +28264,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4407 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_1861",
+"gene_reaction_rule":"GW101-3H11_contig_1_1861 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_4407",
 "notes":{
 "modelseed_complex":"cpx00040"
 },
@@ -28305,7 +28305,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -28367,7 +28367,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -28448,7 +28448,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -28576,7 +28576,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3405 or GW101-3H11_contig_1_3697",
+"gene_reaction_rule":"GW101-3H11_contig_1_3697 or GW101-3H11_contig_1_3405",
 "notes":{
 "modelseed_complex":"tcpx00161;tcpx00162"
 },
@@ -28784,7 +28784,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2980 or GW101-3H11_contig_1_854)",
+"gene_reaction_rule":"GW101-3H11_contig_1_836 or (GW101-3H11_contig_1_854 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_4218 or GW101-3H11_contig_1_2048 or GW101-3H11_contig_1_2980)",
 "notes":{
 "modelseed_complex":"cpx01599;tcpx00306"
 },
@@ -28826,7 +28826,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or GW101-3H11_contig_1_838",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -28951,7 +28951,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4535 or GW101-3H11_contig_1_2230 or GW101-3H11_contig_1_3753",
+"gene_reaction_rule":"GW101-3H11_contig_1_2230 or GW101-3H11_contig_1_3753 or GW101-3H11_contig_1_4535",
 "notes":{
 "modelseed_complex":"cpx01459;cpx52471;cpx52473"
 },
@@ -28972,7 +28972,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3300 or GW101-3H11_contig_1_3499",
+"gene_reaction_rule":"GW101-3H11_contig_1_3499 or GW101-3H11_contig_1_3300",
 "notes":{
 "modelseed_complex":"tcpx00416"
 },
@@ -29286,7 +29286,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_2163 or GW101-3H11_contig_1_1671) and (GW101-3H11_contig_1_1673 or GW101-3H11_contig_1_2162)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_1671 or GW101-3H11_contig_1_2163) and (GW101-3H11_contig_1_1673 or GW101-3H11_contig_1_2162)",
 "notes":{
 "modelseed_complex":"tcpx00199"
 },
@@ -29347,7 +29347,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4163 or (GW101-3H11_contig_1_2204 or GW101-3H11_contig_1_3571)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3571 or GW101-3H11_contig_1_2204) or GW101-3H11_contig_1_4163",
 "notes":{
 "modelseed_complex":"tcpx00319;tcpx00320"
 },
@@ -29548,7 +29548,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or (GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_4067 or GW101-3H11_contig_1_2500 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2849)",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022) or (GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4067 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2500)",
 "notes":{
 "modelseed_complex":"cpx00454;cpx00666;tcpx00072"
 },
@@ -29633,7 +29633,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -29655,7 +29655,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -29696,7 +29696,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -29781,7 +29781,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4656 or GW101-3H11_contig_1_986 or GW101-3H11_contig_1_985",
+"gene_reaction_rule":"GW101-3H11_contig_1_985 or GW101-3H11_contig_1_986 or GW101-3H11_contig_1_4656",
 "notes":{
 "modelseed_complex":"cpx00325;cpx00326;cpx00327"
 },
@@ -29843,7 +29843,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2815 or GW101-3H11_contig_1_870 or GW101-3H11_contig_1_1130 or GW101-3H11_contig_1_2406 or GW101-3H11_contig_1_4290 or GW101-3H11_contig_1_2459",
+"gene_reaction_rule":"GW101-3H11_contig_1_2459 or GW101-3H11_contig_1_870 or GW101-3H11_contig_1_4290 or GW101-3H11_contig_1_2815 or GW101-3H11_contig_1_2406 or GW101-3H11_contig_1_1130",
 "notes":{
 "modelseed_complex":"cpx00224"
 },
@@ -29992,7 +29992,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -30010,7 +30010,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_993 or GW101-3H11_contig_1_994",
+"gene_reaction_rule":"GW101-3H11_contig_1_994 or GW101-3H11_contig_1_993",
 "notes":{
 "modelseed_complex":"cpx00299"
 },
@@ -30030,7 +30030,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -30155,7 +30155,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -30200,7 +30200,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -30239,7 +30239,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4640 or GW101-3H11_contig_1_409",
+"gene_reaction_rule":"GW101-3H11_contig_1_409 or GW101-3H11_contig_1_4640",
 "notes":{
 "modelseed_complex":"cpx00099"
 },
@@ -30260,7 +30260,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -30280,7 +30280,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -30301,7 +30301,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2454 or GW101-3H11_contig_1_336 or GW101-3H11_contig_1_4090",
+"gene_reaction_rule":"GW101-3H11_contig_1_2454 or GW101-3H11_contig_1_4090 or GW101-3H11_contig_1_336",
 "notes":{
 "modelseed_complex":"cpx01806"
 },
@@ -30340,7 +30340,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3968 or GW101-3H11_contig_1_2540 or GW101-3H11_contig_1_1386",
+"gene_reaction_rule":"GW101-3H11_contig_1_1386 or GW101-3H11_contig_1_3968 or GW101-3H11_contig_1_2540",
 "notes":{
 "modelseed_complex":"cpx01568"
 },
@@ -30380,7 +30380,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1753 or GW101-3H11_contig_1_1402",
+"gene_reaction_rule":"GW101-3H11_contig_1_1402 or GW101-3H11_contig_1_1753",
 "notes":{
 "modelseed_complex":"cpx00715;tcpx00170"
 },
@@ -30464,7 +30464,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4870 or GW101-3H11_contig_1_3897",
+"gene_reaction_rule":"GW101-3H11_contig_1_3897 or GW101-3H11_contig_1_4870",
 "notes":{
 "modelseed_complex":"cpx00300;tcpx01159"
 },
@@ -30506,7 +30506,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -30753,7 +30753,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3077 or (GW101-3H11_contig_1_4165 and GW101-3H11_contig_1_4164)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4165 and GW101-3H11_contig_1_4164) or GW101-3H11_contig_1_3077",
 "notes":{
 "modelseed_complex":"cpx00988;tcpx00130"
 },
@@ -30793,7 +30793,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4265 or GW101-3H11_contig_1_220",
+"gene_reaction_rule":"GW101-3H11_contig_1_220 or GW101-3H11_contig_1_4265",
 "notes":{
 "modelseed_complex":"cpx01565"
 },
@@ -30834,7 +30834,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4656 or GW101-3H11_contig_1_986 or GW101-3H11_contig_1_985",
+"gene_reaction_rule":"GW101-3H11_contig_1_985 or GW101-3H11_contig_1_986 or GW101-3H11_contig_1_4656",
 "notes":{
 "modelseed_complex":"cpx00325;cpx00326;cpx00327"
 },
@@ -30919,7 +30919,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2337 or GW101-3H11_contig_1_2645",
+"gene_reaction_rule":"GW101-3H11_contig_1_2645 or GW101-3H11_contig_1_2337",
 "notes":{
 "modelseed_complex":"cpx00973;cpx00974"
 },
@@ -31045,7 +31045,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2876 and (GW101-3H11_contig_1_2879 or GW101-3H11_contig_1_2960)",
+"gene_reaction_rule":"GW101-3H11_contig_1_2876 and (GW101-3H11_contig_1_2960 or GW101-3H11_contig_1_2879)",
 "notes":{
 "modelseed_complex":"tcpx00603"
 },
@@ -31066,7 +31066,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -31254,7 +31254,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -31272,7 +31272,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_854",
+"gene_reaction_rule":"GW101-3H11_contig_1_854 or GW101-3H11_contig_1_2275",
 "notes":{
 "modelseed_complex":"cpx00104"
 },
@@ -31291,7 +31291,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_415 or GW101-3H11_contig_1_4635",
+"gene_reaction_rule":"GW101-3H11_contig_1_4635 or GW101-3H11_contig_1_415",
 "notes":{
 "modelseed_complex":"cpx52446"
 },
@@ -31414,7 +31414,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_415 or GW101-3H11_contig_1_4635",
+"gene_reaction_rule":"GW101-3H11_contig_1_4635 or GW101-3H11_contig_1_415",
 "notes":{
 "modelseed_complex":"cpx52446"
 },
@@ -31457,7 +31457,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1697 and (GW101-3H11_contig_1_3655 or GW101-3H11_contig_1_3342 or GW101-3H11_contig_1_3854) and (GW101-3H11_contig_1_3656 or GW101-3H11_contig_1_1695) and (GW101-3H11_contig_1_1690 or GW101-3H11_contig_1_2720 or GW101-3H11_contig_1_4434) and (GW101-3H11_contig_1_3857 or GW101-3H11_contig_1_3658) and GW101-3H11_contig_1_3855 and GW101-3H11_contig_1_3856",
+"gene_reaction_rule":"GW101-3H11_contig_1_1697 and (GW101-3H11_contig_1_3854 or GW101-3H11_contig_1_3655 or GW101-3H11_contig_1_3342) and (GW101-3H11_contig_1_1695 or GW101-3H11_contig_1_3656) and (GW101-3H11_contig_1_2720 or GW101-3H11_contig_1_1690 or GW101-3H11_contig_1_4434) and (GW101-3H11_contig_1_3857 or GW101-3H11_contig_1_3658) and GW101-3H11_contig_1_3855 and GW101-3H11_contig_1_3856",
 "notes":{
 "modelseed_complex":"tcpx00606"
 },
@@ -31580,7 +31580,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -31599,7 +31599,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -31619,7 +31619,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_1806 or GW101-3H11_contig_1_3089",
+"gene_reaction_rule":"(GW101-3H11_contig_1_4198 or GW101-3H11_contig_1_970 or GW101-3H11_contig_1_1865) or GW101-3H11_contig_1_3089 or GW101-3H11_contig_1_1806",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -31640,7 +31640,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -31786,7 +31786,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1055 and (GW101-3H11_contig_1_1054 or GW101-3H11_contig_1_2290 or GW101-3H11_contig_1_741 or GW101-3H11_contig_1_2299 or GW101-3H11_contig_1_4025)",
+"gene_reaction_rule":"GW101-3H11_contig_1_1055 and (GW101-3H11_contig_1_4025 or GW101-3H11_contig_1_2299 or GW101-3H11_contig_1_2290 or GW101-3H11_contig_1_741 or GW101-3H11_contig_1_1054)",
 "notes":{
 "modelseed_complex":"cpx00780"
 },
@@ -32014,7 +32014,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1753 or GW101-3H11_contig_1_1402",
+"gene_reaction_rule":"GW101-3H11_contig_1_1402 or GW101-3H11_contig_1_1753",
 "notes":{
 "modelseed_complex":"cpx00715;tcpx00170"
 },
@@ -32175,7 +32175,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2488 or GW101-3H11_contig_1_1043 or GW101-3H11_contig_1_3789",
+"gene_reaction_rule":"GW101-3H11_contig_1_2488 or GW101-3H11_contig_1_3789 or GW101-3H11_contig_1_1043",
 "notes":{
 "modelseed_complex":"cpx00249"
 },
@@ -32279,7 +32279,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -32363,7 +32363,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3651 or GW101-3H11_contig_1_3652",
+"gene_reaction_rule":"GW101-3H11_contig_1_3652 or GW101-3H11_contig_1_3651",
 "notes":{
 "modelseed_complex":"cpx01360;cpx01371"
 },
@@ -32489,7 +32489,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_3873 or GW101-3H11_contig_1_2073) or GW101-3H11_contig_1_4314 or (GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2073 or GW101-3H11_contig_1_3873) or (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984) or GW101-3H11_contig_1_4314",
 "notes":{
 "modelseed_complex":"tcpx00049;tcpx00054;tcpx00282"
 },
@@ -32613,7 +32613,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -32659,7 +32659,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_381 or GW101-3H11_contig_1_2246) and GW101-3H11_contig_1_2244",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2246 or GW101-3H11_contig_1_381) and GW101-3H11_contig_1_2244",
 "notes":{
 "modelseed_complex":"tcpx00622"
 },
@@ -32680,7 +32680,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2984 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_850 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_2284) or (GW101-3H11_contig_1_3873 or GW101-3H11_contig_1_2073) or GW101-3H11_contig_1_4314",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2073 or GW101-3H11_contig_1_3873) or (GW101-3H11_contig_1_850 or GW101-3H11_contig_1_585 or GW101-3H11_contig_1_2070 or GW101-3H11_contig_1_2284 or GW101-3H11_contig_1_856 or GW101-3H11_contig_1_4899 or GW101-3H11_contig_1_2984) or GW101-3H11_contig_1_4314",
 "notes":{
 "modelseed_complex":"tcpx00049;tcpx00054;tcpx00282"
 },
@@ -32722,7 +32722,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -32783,7 +32783,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_784 or GW101-3H11_contig_1_2409",
+"gene_reaction_rule":"GW101-3H11_contig_1_2409 or GW101-3H11_contig_1_784",
 "notes":{
 "modelseed_complex":"cpx01590"
 },
@@ -32805,7 +32805,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_1743 or GW101-3H11_contig_1_2007",
+"gene_reaction_rule":"GW101-3H11_contig_1_2007 or GW101-3H11_contig_1_1743",
 "notes":{
 "modelseed_complex":"cpx01369"
 },
@@ -32911,7 +32911,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3029 or GW101-3H11_contig_1_1023",
+"gene_reaction_rule":"GW101-3H11_contig_1_1023 or GW101-3H11_contig_1_3029",
 "notes":{
 "modelseed_complex":"cpx00899"
 },
@@ -32974,7 +32974,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1697 and (GW101-3H11_contig_1_3655 or GW101-3H11_contig_1_3342 or GW101-3H11_contig_1_3854) and (GW101-3H11_contig_1_3656 or GW101-3H11_contig_1_1695) and (GW101-3H11_contig_1_1690 or GW101-3H11_contig_1_2720 or GW101-3H11_contig_1_4434) and (GW101-3H11_contig_1_3857 or GW101-3H11_contig_1_3658) and GW101-3H11_contig_1_3855 and GW101-3H11_contig_1_3856",
+"gene_reaction_rule":"GW101-3H11_contig_1_1697 and (GW101-3H11_contig_1_3854 or GW101-3H11_contig_1_3655 or GW101-3H11_contig_1_3342) and (GW101-3H11_contig_1_1695 or GW101-3H11_contig_1_3656) and (GW101-3H11_contig_1_2720 or GW101-3H11_contig_1_1690 or GW101-3H11_contig_1_4434) and (GW101-3H11_contig_1_3857 or GW101-3H11_contig_1_3658) and GW101-3H11_contig_1_3855 and GW101-3H11_contig_1_3856",
 "notes":{
 "modelseed_complex":"tcpx00606"
 },
@@ -33035,7 +33035,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -33144,7 +33144,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4456 or GW101-3H11_contig_1_3741",
+"gene_reaction_rule":"GW101-3H11_contig_1_3741 or GW101-3H11_contig_1_4456",
 "notes":{
 "modelseed_complex":"cpx52483;tcpx00355"
 },
@@ -33286,7 +33286,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -33386,7 +33386,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2980",
+"gene_reaction_rule":"GW101-3H11_contig_1_303 or GW101-3H11_contig_1_2016 or GW101-3H11_contig_1_841 or GW101-3H11_contig_1_689 or GW101-3H11_contig_1_1715 or GW101-3H11_contig_1_2071 or GW101-3H11_contig_1_2981 or GW101-3H11_contig_1_863 or GW101-3H11_contig_1_3293 or GW101-3H11_contig_1_2375 or GW101-3H11_contig_1_2275 or GW101-3H11_contig_1_586 or GW101-3H11_contig_1_71 or GW101-3H11_contig_1_2980",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -33408,7 +33408,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"GW101-3H11_contig_1_1011 or GW101-3H11_contig_1_4749",
+"gene_reaction_rule":"GW101-3H11_contig_1_4749 or GW101-3H11_contig_1_1011",
 "notes":{
 "modelseed_complex":"cpx01512"
 },
@@ -33452,7 +33452,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3988 or GW101-3H11_contig_1_2004",
+"gene_reaction_rule":"GW101-3H11_contig_1_2004 or GW101-3H11_contig_1_3988",
 "notes":{
 "modelseed_complex":"cpx00722"
 },
@@ -33599,7 +33599,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_28 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_3522",
+"gene_reaction_rule":"GW101-3H11_contig_1_3522 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_28",
 "notes":{
 "modelseed_complex":"cpx00571"
 },
@@ -33806,7 +33806,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4163 or (GW101-3H11_contig_1_2204 or GW101-3H11_contig_1_3571)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3571 or GW101-3H11_contig_1_2204) or GW101-3H11_contig_1_4163",
 "notes":{
 "modelseed_complex":"tcpx00319;tcpx00320"
 },
@@ -33869,7 +33869,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -34013,7 +34013,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -34174,7 +34174,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2022 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2849) or GW101-3H11_contig_1_838",
+"gene_reaction_rule":"GW101-3H11_contig_1_838 or (GW101-3H11_contig_1_305 or GW101-3H11_contig_1_2276 or GW101-3H11_contig_1_2849 or GW101-3H11_contig_1_2049 or GW101-3H11_contig_1_855 or GW101-3H11_contig_1_304 or GW101-3H11_contig_1_4316 or GW101-3H11_contig_1_2022)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -34403,7 +34403,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3009 or GW101-3H11_contig_1_3366) or GW101-3H11_contig_1_2402",
+"gene_reaction_rule":"GW101-3H11_contig_1_2402 or GW101-3H11_contig_1_2166 or (GW101-3H11_contig_1_3366 or GW101-3H11_contig_1_3009)",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048"
 },
@@ -34550,7 +34550,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_1635 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_4929",
+"gene_reaction_rule":"GW101-3H11_contig_1_4929 or GW101-3H11_contig_1_3356 or GW101-3H11_contig_1_4633 or GW101-3H11_contig_1_1635",
 "notes":{
 "modelseed_complex":"cpx00034"
 },
@@ -34572,7 +34572,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -34614,7 +34614,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_189 or GW101-3H11_contig_1_3018",
+"gene_reaction_rule":"GW101-3H11_contig_1_3018 or GW101-3H11_contig_1_189",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -34655,7 +34655,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4395 or GW101-3H11_contig_1_4529 or GW101-3H11_contig_1_3005 or GW101-3H11_contig_1_4386 or GW101-3H11_contig_1_1611",
+"gene_reaction_rule":"GW101-3H11_contig_1_3005 or GW101-3H11_contig_1_4395 or GW101-3H11_contig_1_4529 or GW101-3H11_contig_1_4386 or GW101-3H11_contig_1_1611",
 "notes":{
 "modelseed_complex":"cpx00318"
 },
@@ -34864,7 +34864,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -34885,7 +34885,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3862 or GW101-3H11_contig_1_2916 or GW101-3H11_contig_1_2970",
+"gene_reaction_rule":"GW101-3H11_contig_1_2916 or GW101-3H11_contig_1_2970 or GW101-3H11_contig_1_3862",
 "notes":{
 "modelseed_complex":"cpx01676"
 },
@@ -34905,7 +34905,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2504 or (GW101-3H11_contig_1_882 or GW101-3H11_contig_1_4514 or GW101-3H11_contig_1_2171 or GW101-3H11_contig_1_4931)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_2171 or GW101-3H11_contig_1_4514 or GW101-3H11_contig_1_4931 or GW101-3H11_contig_1_882) or GW101-3H11_contig_1_2504",
 "notes":{
 "modelseed_complex":"cpx00713;tcpx01105"
 },
@@ -34946,7 +34946,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -35032,7 +35032,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_2043",
+"gene_reaction_rule":"GW101-3H11_contig_1_2029 or GW101-3H11_contig_1_4208 or GW101-3H11_contig_1_3292 or GW101-3H11_contig_1_858 or GW101-3H11_contig_1_2520 or GW101-3H11_contig_1_72 or GW101-3H11_contig_1_3348 or GW101-3H11_contig_1_11 or GW101-3H11_contig_1_506 or GW101-3H11_contig_1_2043 or GW101-3H11_contig_1_2856 or GW101-3H11_contig_1_4642 or GW101-3H11_contig_1_2027 or GW101-3H11_contig_1_267 or GW101-3H11_contig_1_666 or GW101-3H11_contig_1_187 or GW101-3H11_contig_1_760",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -35114,7 +35114,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_1074 or GW101-3H11_contig_1_2669 or (GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_28 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_3522) or GW101-3H11_contig_1_2669",
+"gene_reaction_rule":"GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_2669 or (GW101-3H11_contig_1_3522 or GW101-3H11_contig_1_3765 or GW101-3H11_contig_1_3209 or GW101-3H11_contig_1_2669 or GW101-3H11_contig_1_4063 or GW101-3H11_contig_1_1353 or GW101-3H11_contig_1_2397 or GW101-3H11_contig_1_28) or GW101-3H11_contig_1_1074",
 "notes":{
 "modelseed_complex":"cpx00571;cpx00578;cpx01690;tcpx01256"
 },
@@ -35153,7 +35153,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2908 or GW101-3H11_contig_1_2366 or GW101-3H11_contig_1_2549",
+"gene_reaction_rule":"GW101-3H11_contig_1_2366 or GW101-3H11_contig_1_2549 or GW101-3H11_contig_1_2908",
 "notes":{
 "modelseed_complex":"cpx00337"
 },
@@ -35346,7 +35346,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_158 or GW101-3H11_contig_1_3263 or GW101-3H11_contig_1_158",
+"gene_reaction_rule":"GW101-3H11_contig_1_158 or GW101-3H11_contig_1_158 or GW101-3H11_contig_1_3263",
 "notes":{
 "modelseed_complex":"cpx00910;cpx52754;cpx52755"
 },
@@ -35405,7 +35405,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_777 or (GW101-3H11_contig_1_4247 or GW101-3H11_contig_1_3740)",
+"gene_reaction_rule":"(GW101-3H11_contig_1_3740 or GW101-3H11_contig_1_4247) or GW101-3H11_contig_1_777",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137"
 },
@@ -35531,7 +35531,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4407 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_1861",
+"gene_reaction_rule":"GW101-3H11_contig_1_1861 or GW101-3H11_contig_1_2349 or GW101-3H11_contig_1_2999 or GW101-3H11_contig_1_4408 or GW101-3H11_contig_1_4407",
 "notes":{
 "modelseed_complex":"tcpx00353"
 },
@@ -35551,7 +35551,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_882 or GW101-3H11_contig_1_4514 or GW101-3H11_contig_1_2171 or GW101-3H11_contig_1_4931",
+"gene_reaction_rule":"GW101-3H11_contig_1_2171 or GW101-3H11_contig_1_4514 or GW101-3H11_contig_1_4931 or GW101-3H11_contig_1_882",
 "notes":{
 "modelseed_complex":"tcpx01348"
 },
@@ -35981,7 +35981,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_519 or GW101-3H11_contig_1_518 or GW101-3H11_contig_1_4699",
+"gene_reaction_rule":"GW101-3H11_contig_1_519 or GW101-3H11_contig_1_4699 or GW101-3H11_contig_1_518",
 "notes":{
 "modelseed_complex":"cpx01645;tcpx00608;tcpx00611"
 },
@@ -36540,7 +36540,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4640 or GW101-3H11_contig_1_409",
+"gene_reaction_rule":"GW101-3H11_contig_1_409 or GW101-3H11_contig_1_4640",
 "notes":{
 "modelseed_complex":"cpx00099"
 },
@@ -36586,7 +36586,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_82 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_638",
+"gene_reaction_rule":"GW101-3H11_contig_1_2778 or GW101-3H11_contig_1_616 or GW101-3H11_contig_1_638 or GW101-3H11_contig_1_2761 or GW101-3H11_contig_1_82",
 "notes":{
 "modelseed_complex":"cpx01488"
 },
@@ -36758,7 +36758,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636 or GW101-3H11_contig_1_3051",
+"gene_reaction_rule":"GW101-3H11_contig_1_3051 or GW101-3H11_contig_1_4829 or GW101-3H11_contig_1_3636",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -36834,7 +36834,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_3862 or GW101-3H11_contig_1_2916 or GW101-3H11_contig_1_2970",
+"gene_reaction_rule":"GW101-3H11_contig_1_2916 or GW101-3H11_contig_1_2970 or GW101-3H11_contig_1_3862",
 "notes":{
 "modelseed_complex":"cpx01676"
 },
@@ -37195,7 +37195,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"GW101-3H11_contig_1_273 and (GW101-3H11_contig_1_4683 or GW101-3H11_contig_1_1320 or GW101-3H11_contig_1_4145)",
+"gene_reaction_rule":"GW101-3H11_contig_1_273 and (GW101-3H11_contig_1_1320 or GW101-3H11_contig_1_4683 or GW101-3H11_contig_1_4145)",
 "notes":{
 "modelseed_complex":"tcpx01180"
 },
@@ -39425,6 +39425,23 @@
 }
 },
 {
+"id":"rxn10213_c0",
+"name":"stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]",
+"metabolites":{
+"cpd00010_c0":1,
+"cpd00067_c0":-1,
+"cpd00327_c0":-1,
+"cpd15329_c0":-1,
+"cpd15526_c0":1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn10213"
+}
+},
+{
 "id":"rxn05039_c0",
 "name":"R07280 [c0]",
 "metabolites":{
@@ -39457,6 +39474,22 @@
 }
 },
 {
+"id":"rxn10204_c0",
+"name":"acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]",
+"metabolites":{
+"cpd00010_c0":1,
+"cpd00080_c0":-1,
+"cpd00327_c0":-1,
+"cpd15329_c0":1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn10204"
+}
+},
+{
 "id":"rxn02774_c0",
 "name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]",
 "metabolites":{
@@ -39471,22 +39504,6 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn02774"
-}
-},
-{
-"id":"rxn00927_c0",
-"name":"Adenosine ribohydrolase [c0]",
-"metabolites":{
-"cpd00001_c0":-1,
-"cpd00105_c0":1,
-"cpd00128_c0":1,
-"cpd00182_c0":-1
-},
-"lower_bound":0,
-"upper_bound":1000,
-"gene_reaction_rule":"",
-"annotation":{
-"seed.reaction":"rxn00927"
 }
 },
 {
@@ -39535,23 +39552,6 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn00966"
-}
-},
-{
-"id":"rxn05119_c0",
-"name":"L-aspartate:NAD+ oxidoreductase (deaminating) [c0]",
-"metabolites":{
-"cpd00003_c0":-1,
-"cpd00004_c0":1,
-"cpd00041_c0":-1,
-"cpd00067_c0":2,
-"cpd03470_c0":1
-},
-"lower_bound":0,
-"upper_bound":1000,
-"gene_reaction_rule":"",
-"annotation":{
-"seed.reaction":"rxn05119"
 }
 },
 {
@@ -39630,23 +39630,6 @@
 }
 },
 {
-"id":"rxn00440_c0",
-"name":"ATP:thiamine diphosphotransferase [c0]",
-"metabolites":{
-"cpd00002_c0":-1,
-"cpd00018_c0":1,
-"cpd00056_c0":1,
-"cpd00067_c0":1,
-"cpd00305_c0":-1
-},
-"lower_bound":0,
-"upper_bound":1000,
-"gene_reaction_rule":"",
-"annotation":{
-"seed.reaction":"rxn00440"
-}
-},
-{
 "id":"rxn01213_c0",
 "name":"GPPSYN-RXN [c0]",
 "metabolites":{
@@ -39661,23 +39644,6 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn01213"
-}
-},
-{
-"id":"rxn08444_c0",
-"name":"Stearoyl-CoA hydrolase [c0]",
-"metabolites":{
-"cpd00001_c0":-1,
-"cpd00010_c0":1,
-"cpd00067_c0":1,
-"cpd00327_c0":-1,
-"cpd01080_c0":1
-},
-"lower_bound":0,
-"upper_bound":1000,
-"gene_reaction_rule":"",
-"annotation":{
-"seed.reaction":"rxn08444"
 }
 },
 {
@@ -39749,6 +39715,23 @@
 }
 },
 {
+"id":"rxn05117_c0",
+"name":"L-aspartate:NADP+ oxidoreductase (deaminating) [c0]",
+"metabolites":{
+"cpd00005_c0":1,
+"cpd00006_c0":-1,
+"cpd00041_c0":-1,
+"cpd00067_c0":2,
+"cpd03470_c0":1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn05117"
+}
+},
+{
 "id":"rxn02056_c0",
 "name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]",
 "metabolites":{
@@ -39762,6 +39745,23 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn02056"
+}
+},
+{
+"id":"rxn00134_c0",
+"name":"ATP:adenosine 5'-phosphotransferase [c0]",
+"metabolites":{
+"cpd00002_c0":-1,
+"cpd00008_c0":1,
+"cpd00018_c0":1,
+"cpd00067_c0":1,
+"cpd00182_c0":-1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn00134"
 }
 },
 {
@@ -39831,6 +39831,23 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn01258"
+}
+},
+{
+"id":"rxn01538_c0",
+"name":"ATP:thiamine phosphotransferase [c0]",
+"metabolites":{
+"cpd00002_c0":-1,
+"cpd00008_c0":1,
+"cpd00067_c0":1,
+"cpd00305_c0":-1,
+"cpd00793_c0":1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn01538"
 }
 },
 {
@@ -39961,23 +39978,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1344",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2727",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_4102",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_989",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4579",
+"id":"GW101-3H11_contig_1_3888",
 "name":""
 },
 {
@@ -39985,11 +39990,23 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4776",
+"id":"GW101-3H11_contig_1_1344",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3888",
+"id":"GW101-3H11_contig_1_4579",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_989",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2727",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4776",
 "name":""
 },
 {
@@ -40001,31 +40018,23 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_187",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_760",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2029",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2856",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2027",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4642",
+"id":"GW101-3H11_contig_1_4208",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_858",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3292",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2520",
 "name":""
 },
 {
@@ -40037,23 +40046,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_666",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3292",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_267",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_11",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4208",
 "name":""
 },
 {
@@ -40061,11 +40054,35 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2520",
+"id":"GW101-3H11_contig_1_2043",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2043",
+"id":"GW101-3H11_contig_1_2856",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4642",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2027",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_267",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_666",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_187",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_760",
 "name":""
 },
 {
@@ -40085,11 +40102,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4699",
+"id":"GW101-3H11_contig_1_519",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_519",
+"id":"GW101-3H11_contig_1_4699",
 "name":""
 },
 {
@@ -40113,11 +40130,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_690",
+"id":"GW101-3H11_contig_1_2048",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2048",
+"id":"GW101-3H11_contig_1_690",
 "name":""
 },
 {
@@ -40129,11 +40146,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2275",
+"id":"GW101-3H11_contig_1_854",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_836",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2275",
 "name":""
 },
 {
@@ -40142,10 +40163,6 @@
 },
 {
 "id":"GW101-3H11_contig_1_2980",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_854",
 "name":""
 },
 {
@@ -40173,15 +40190,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_130",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2422",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_189",
+"id":"GW101-3H11_contig_1_130",
 "name":""
 },
 {
@@ -40189,11 +40202,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4559",
+"id":"GW101-3H11_contig_1_189",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3009",
+"id":"GW101-3H11_contig_1_4559",
 "name":""
 },
 {
@@ -40201,11 +40214,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2402",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3366",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2402",
+"id":"GW101-3H11_contig_1_3009",
 "name":""
 },
 {
@@ -40237,11 +40254,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1705",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2471",
+"id":"GW101-3H11_contig_1_4862",
 "name":""
 },
 {
@@ -40249,7 +40262,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3519",
+"id":"GW101-3H11_contig_1_2005",
 "name":""
 },
 {
@@ -40257,19 +40270,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4077",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2005",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2893",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3849",
+"id":"GW101-3H11_contig_1_2471",
 "name":""
 },
 {
@@ -40277,7 +40278,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4862",
+"id":"GW101-3H11_contig_1_3519",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4077",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2893",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1705",
 "name":""
 },
 {
@@ -40285,11 +40298,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_970",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1865",
+"id":"GW101-3H11_contig_1_3849",
 "name":""
 },
 {
@@ -40301,7 +40310,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_970",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4198",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1865",
 "name":""
 },
 {
@@ -40325,6 +40342,10 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_4929",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3356",
 "name":""
 },
@@ -40337,15 +40358,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4929",
+"id":"GW101-3H11_contig_1_2905",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_2890",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2905",
 "name":""
 },
 {
@@ -40361,7 +40378,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_82",
+"id":"GW101-3H11_contig_1_638",
 "name":""
 },
 {
@@ -40369,7 +40386,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_638",
+"id":"GW101-3H11_contig_1_82",
 "name":""
 },
 {
@@ -40389,11 +40406,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2055",
+"id":"GW101-3H11_contig_1_735",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_735",
+"id":"GW101-3H11_contig_1_2055",
 "name":""
 },
 {
@@ -40465,11 +40482,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2364",
+"id":"GW101-3H11_contig_1_1318",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1318",
+"id":"GW101-3H11_contig_1_2364",
 "name":""
 },
 {
@@ -40501,11 +40518,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4396",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3931",
+"id":"GW101-3H11_contig_1_3326",
 "name":""
 },
 {
@@ -40513,11 +40526,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_958",
+"id":"GW101-3H11_contig_1_3931",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3326",
+"id":"GW101-3H11_contig_1_4396",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_958",
 "name":""
 },
 {
@@ -40533,15 +40550,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_4635",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_415",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_3016",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4635",
 "name":""
 },
 {
@@ -40597,11 +40614,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3696",
+"id":"GW101-3H11_contig_1_3695",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3695",
+"id":"GW101-3H11_contig_1_3696",
 "name":""
 },
 {
@@ -40637,7 +40654,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4247",
+"id":"GW101-3H11_contig_1_3740",
 "name":""
 },
 {
@@ -40645,7 +40662,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3740",
+"id":"GW101-3H11_contig_1_4247",
 "name":""
 },
 {
@@ -40657,19 +40674,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2049",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_304",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2276",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2022",
 "name":""
 },
 {
@@ -40677,7 +40682,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2849",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2049",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_855",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_304",
 "name":""
 },
 {
@@ -40685,7 +40702,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2849",
+"id":"GW101-3H11_contig_1_2022",
 "name":""
 },
 {
@@ -40721,19 +40738,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_61",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_3017",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4170",
+"id":"GW101-3H11_contig_1_61",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_4171",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4170",
 "name":""
 },
 {
@@ -40753,35 +40770,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_585",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4899",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_850",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3873",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2073",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2984",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2070",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4314",
 "name":""
 },
 {
@@ -40789,7 +40778,35 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2073",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4314",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_850",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_585",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_2284",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4899",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3873",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2984",
 "name":""
 },
 {
@@ -40805,15 +40822,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2163",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1673",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2162",
 "name":""
 },
 {
@@ -40821,11 +40830,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2162",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2163",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_392",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_642",
+"id":"GW101-3H11_contig_1_641",
 "name":""
 },
 {
@@ -40833,7 +40850,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_640",
+"id":"GW101-3H11_contig_1_642",
 "name":""
 },
 {
@@ -40841,7 +40858,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_641",
+"id":"GW101-3H11_contig_1_640",
 "name":""
 },
 {
@@ -40893,15 +40910,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_1129",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_1127",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_1128",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1129",
 "name":""
 },
 {
@@ -40929,11 +40946,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2525",
+"id":"GW101-3H11_contig_1_2526",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2526",
+"id":"GW101-3H11_contig_1_2525",
 "name":""
 },
 {
@@ -40949,11 +40966,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_1292",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_1294",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1292",
+"id":"GW101-3H11_contig_1_1293",
 "name":""
 },
 {
@@ -40965,26 +40986,6 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1293",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_586",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2071",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_689",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1715",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_303",
 "name":""
 },
@@ -40993,7 +40994,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2375",
+"id":"GW101-3H11_contig_1_2071",
 "name":""
 },
 {
@@ -41005,7 +41006,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_71",
+"id":"GW101-3H11_contig_1_2375",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_841",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_689",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1715",
 "name":""
 },
 {
@@ -41013,7 +41026,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_841",
+"id":"GW101-3H11_contig_1_71",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_586",
 "name":""
 },
 {
@@ -41037,11 +41054,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3175",
+"id":"GW101-3H11_contig_1_3465",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3465",
+"id":"GW101-3H11_contig_1_3175",
 "name":""
 },
 {
@@ -41053,11 +41070,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3263",
+"id":"GW101-3H11_contig_1_158",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_158",
+"id":"GW101-3H11_contig_1_3263",
 "name":""
 },
 {
@@ -41101,11 +41118,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2500",
+"id":"GW101-3H11_contig_1_4067",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4067",
+"id":"GW101-3H11_contig_1_2500",
 "name":""
 },
 {
@@ -41117,11 +41134,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1089",
+"id":"GW101-3H11_contig_1_1153",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1153",
+"id":"GW101-3H11_contig_1_1089",
 "name":""
 },
 {
@@ -41129,15 +41146,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1697",
+"id":"GW101-3H11_contig_1_1695",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_77",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3658",
+"id":"GW101-3H11_contig_1_74",
 "name":""
 },
 {
@@ -41145,7 +41158,59 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3655",
+"id":"GW101-3H11_contig_1_2720",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_859",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1694",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3857",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3658",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3383",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_860",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_77",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1697",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3854",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_665",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_282",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_73",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3856",
 "name":""
 },
 {
@@ -41157,47 +41222,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_282",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3854",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3857",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3342",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2720",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1695",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_860",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3856",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1690",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3383",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_661",
+"id":"GW101-3H11_contig_1_3655",
 "name":""
 },
 {
@@ -41205,31 +41234,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_73",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1694",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_859",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_4434",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_74",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_665",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_3382",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_661",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3342",
 "name":""
 },
 {
@@ -41241,6 +41258,10 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3051",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4829",
 "name":""
 },
@@ -41249,19 +41270,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3051",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1180",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4530",
+"id":"GW101-3H11_contig_1_4532",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4532",
+"id":"GW101-3H11_contig_1_4530",
 "name":""
 },
 {
@@ -41309,6 +41326,14 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_127",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3448",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4523",
 "name":""
 },
@@ -41317,23 +41342,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3448",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_127",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3627",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_385",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_311",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3627",
 "name":""
 },
 {
@@ -41349,15 +41366,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3130",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2251",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3928",
+"id":"GW101-3H11_contig_1_3130",
 "name":""
 },
 {
@@ -41369,11 +41382,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4423",
+"id":"GW101-3H11_contig_1_3928",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4778",
+"id":"GW101-3H11_contig_1_4423",
 "name":""
 },
 {
@@ -41385,11 +41398,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4610",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1166",
+"id":"GW101-3H11_contig_1_4778",
 "name":""
 },
 {
@@ -41397,55 +41406,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4608",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1165",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2432",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2431",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_964",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4905",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1879",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1877",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1164",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1163",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1878",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4609",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_969",
 "name":""
 },
 {
@@ -41453,7 +41414,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4904",
+"id":"GW101-3H11_contig_1_1878",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_969",
 "name":""
 },
 {
@@ -41461,11 +41426,63 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_1164",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1166",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2432",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4906",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4407",
+"id":"GW101-3H11_contig_1_1163",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4905",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_964",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2431",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4608",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4904",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4609",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4610",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1165",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1877",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1861",
 "name":""
 },
 {
@@ -41481,7 +41498,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1861",
+"id":"GW101-3H11_contig_1_4407",
 "name":""
 },
 {
@@ -41489,11 +41506,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_559",
+"id":"GW101-3H11_contig_1_1383",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1383",
+"id":"GW101-3H11_contig_1_559",
 "name":""
 },
 {
@@ -41501,11 +41518,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4599",
+"id":"GW101-3H11_contig_1_4598",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4598",
+"id":"GW101-3H11_contig_1_4599",
 "name":""
 },
 {
@@ -41533,11 +41550,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4237",
+"id":"GW101-3H11_contig_1_498",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3827",
+"id":"GW101-3H11_contig_1_4237",
 "name":""
 },
 {
@@ -41545,7 +41562,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_498",
+"id":"GW101-3H11_contig_1_3827",
 "name":""
 },
 {
@@ -41557,11 +41574,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4121",
+"id":"GW101-3H11_contig_1_884",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_884",
+"id":"GW101-3H11_contig_1_4121",
 "name":""
 },
 {
@@ -41573,11 +41590,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3085",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3237",
+"id":"GW101-3H11_contig_1_3088",
 "name":""
 },
 {
@@ -41589,7 +41602,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3088",
+"id":"GW101-3H11_contig_1_3085",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3237",
 "name":""
 },
 {
@@ -41669,11 +41686,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2897",
+"id":"GW101-3H11_contig_1_2898",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2898",
+"id":"GW101-3H11_contig_1_2897",
 "name":""
 },
 {
@@ -41741,19 +41758,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4768",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_3472",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2225",
+"id":"GW101-3H11_contig_1_4768",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_3440",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2225",
 "name":""
 },
 {
@@ -41777,15 +41794,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2239",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_2238",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_2237",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2239",
 "name":""
 },
 {
@@ -41797,11 +41814,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3029",
+"id":"GW101-3H11_contig_1_1023",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1023",
+"id":"GW101-3H11_contig_1_3029",
 "name":""
 },
 {
@@ -41829,11 +41846,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4811",
+"id":"GW101-3H11_contig_1_3155",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3155",
+"id":"GW101-3H11_contig_1_4811",
 "name":""
 },
 {
@@ -41841,11 +41858,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4750",
+"id":"GW101-3H11_contig_1_4751",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4751",
+"id":"GW101-3H11_contig_1_4750",
 "name":""
 },
 {
@@ -41853,11 +41870,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2738",
+"id":"GW101-3H11_contig_1_1557",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1557",
+"id":"GW101-3H11_contig_1_2738",
 "name":""
 },
 {
@@ -41909,7 +41926,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2732",
+"id":"GW101-3H11_contig_1_974",
 "name":""
 },
 {
@@ -41917,15 +41934,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_974",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2731",
+"id":"GW101-3H11_contig_1_2732",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_2733",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2731",
 "name":""
 },
 {
@@ -41937,19 +41954,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2419",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_605",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2353",
+"id":"GW101-3H11_contig_1_2552",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2552",
+"id":"GW101-3H11_contig_1_2419",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2353",
 "name":""
 },
 {
@@ -41965,15 +41982,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2805",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2804",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_4068",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2805",
 "name":""
 },
 {
@@ -42001,11 +42018,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2974",
+"id":"GW101-3H11_contig_1_4133",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4133",
+"id":"GW101-3H11_contig_1_2974",
 "name":""
 },
 {
@@ -42013,15 +42030,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1353",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4063",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_28",
+"id":"GW101-3H11_contig_1_3522",
 "name":""
 },
 {
@@ -42029,7 +42038,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3209",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_2669",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4063",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1353",
 "name":""
 },
 {
@@ -42037,11 +42058,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3209",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3522",
+"id":"GW101-3H11_contig_1_28",
 "name":""
 },
 {
@@ -42089,11 +42106,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_525",
+"id":"GW101-3H11_contig_1_4318",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4318",
+"id":"GW101-3H11_contig_1_525",
 "name":""
 },
 {
@@ -42105,7 +42122,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4485",
+"id":"GW101-3H11_contig_1_417",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4493",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4490",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3079",
 "name":""
 },
 {
@@ -42113,11 +42142,115 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1817",
+"id":"GW101-3H11_contig_1_484",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_430",
+"id":"GW101-3H11_contig_1_372",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4487",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3407",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_371",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4496",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3620",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3125",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1654",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3724",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1141",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_424",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4816",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_429",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3878",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3863",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2192",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_425",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_426",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_420",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_423",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4956",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4259",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_483",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1960",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4499",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_427",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3679",
 "name":""
 },
 {
@@ -42129,167 +42262,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3848",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4497",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_372",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2192",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4488",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4259",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1111",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1960",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_482",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_423",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4500",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_416",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4252",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_373",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3930",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4493",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4494",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1433",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1654",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4492",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3125",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_589",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3878",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3079",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3917",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3864",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1955",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1170",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4487",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3677",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4490",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_485",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1959",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_429",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4489",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3403",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1110",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4496",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3845",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_424",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3407",
 "name":""
 },
 {
@@ -42297,99 +42270,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_420",
+"id":"GW101-3H11_contig_1_4492",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_421",
+"id":"GW101-3H11_contig_1_430",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4816",
+"id":"GW101-3H11_contig_1_3848",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_483",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4501",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3679",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_427",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3724",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3620",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3966",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_484",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_426",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1957",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1539",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4258",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3863",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1141",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_425",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4495",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4498",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4956",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_785",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_371",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4616",
+"id":"GW101-3H11_contig_1_3930",
 "name":""
 },
 {
@@ -42397,11 +42290,23 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_422",
+"id":"GW101-3H11_contig_1_4485",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_417",
+"id":"GW101-3H11_contig_1_3864",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3966",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1817",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1955",
 "name":""
 },
 {
@@ -42409,11 +42314,123 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4499",
+"id":"GW101-3H11_contig_1_1433",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_785",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3403",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1539",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3677",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4489",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_3678",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_482",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1110",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3845",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_485",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4252",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4616",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_373",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1957",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4488",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3917",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_421",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4495",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4500",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4501",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4497",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_416",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1170",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_589",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_422",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1111",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4498",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4258",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4494",
 "name":""
 },
 {
@@ -42465,7 +42482,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3603",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3607",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3609",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3612",
 "name":""
 },
 {
@@ -42481,27 +42510,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3602",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3614",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3607",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3603",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3608",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3612",
+"id":"GW101-3H11_contig_1_3606",
 "name":""
 },
 {
@@ -42509,11 +42518,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3608",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3611",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3606",
+"id":"GW101-3H11_contig_1_3614",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3602",
 "name":""
 },
 {
@@ -42545,15 +42562,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3712",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1078",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_1076",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3712",
 "name":""
 },
 {
@@ -42577,7 +42594,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2204",
+"id":"GW101-3H11_contig_1_3571",
 "name":""
 },
 {
@@ -42585,7 +42602,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3571",
+"id":"GW101-3H11_contig_1_2204",
 "name":""
 },
 {
@@ -42609,10 +42626,6 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2930",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2929",
 "name":""
 },
@@ -42621,11 +42634,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3689",
+"id":"GW101-3H11_contig_1_2930",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4123",
+"id":"GW101-3H11_contig_1_3689",
 "name":""
 },
 {
@@ -42633,15 +42646,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_4123",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_357",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3268",
+"id":"GW101-3H11_contig_1_3267",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3267",
+"id":"GW101-3H11_contig_1_3268",
 "name":""
 },
 {
@@ -42657,11 +42674,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1325",
+"id":"GW101-3H11_contig_1_4939",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4939",
+"id":"GW101-3H11_contig_1_1325",
 "name":""
 },
 {
@@ -42713,15 +42730,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2742",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1803",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_878",
+"id":"GW101-3H11_contig_1_2742",
 "name":""
 },
 {
@@ -42729,7 +42742,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3327",
+"id":"GW101-3H11_contig_1_876",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3766",
 "name":""
 },
 {
@@ -42737,15 +42754,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3327",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3804",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_879",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_876",
+"id":"GW101-3H11_contig_1_878",
 "name":""
 },
 {
@@ -42753,7 +42770,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3766",
+"id":"GW101-3H11_contig_1_879",
 "name":""
 },
 {
@@ -42873,15 +42890,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2494",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2047",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1304",
+"id":"GW101-3H11_contig_1_2494",
 "name":""
 },
 {
@@ -42889,11 +42902,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_882",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4514",
+"id":"GW101-3H11_contig_1_1304",
 "name":""
 },
 {
@@ -42901,7 +42910,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_4514",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4931",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_882",
 "name":""
 },
 {
@@ -42913,11 +42930,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3170",
+"id":"GW101-3H11_contig_1_2901",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2901",
+"id":"GW101-3H11_contig_1_3170",
 "name":""
 },
 {
@@ -42925,11 +42942,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4165",
+"id":"GW101-3H11_contig_1_4164",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4164",
+"id":"GW101-3H11_contig_1_4165",
 "name":""
 },
 {
@@ -42937,23 +42954,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1054",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_3579",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2290",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_741",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1055",
 "name":""
 },
 {
@@ -42961,11 +42962,35 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_741",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1054",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2290",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4025",
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_1055",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4319",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3252",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_981",
 "name":""
 },
 {
@@ -42974,14 +42999,6 @@
 },
 {
 "id":"GW101-3H11_contig_1_980",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_981",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3252",
 "name":""
 },
 {
@@ -43005,7 +43022,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4788",
+"id":"GW101-3H11_contig_1_2051",
 "name":""
 },
 {
@@ -43013,7 +43030,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2051",
+"id":"GW101-3H11_contig_1_4788",
 "name":""
 },
 {
@@ -43045,15 +43062,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2511",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_3182",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3314",
+"id":"GW101-3H11_contig_1_2511",
 "name":""
 },
 {
@@ -43061,15 +43074,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3314",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_2413",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3021",
+"id":"GW101-3H11_contig_1_3020",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3020",
+"id":"GW101-3H11_contig_1_3021",
 "name":""
 },
 {
@@ -43089,11 +43106,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3647",
+"id":"GW101-3H11_contig_1_1149",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1149",
+"id":"GW101-3H11_contig_1_3647",
 "name":""
 },
 {
@@ -43101,27 +43118,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3919",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1305",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2236",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4685",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2991",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_693",
+"id":"GW101-3H11_contig_1_2717",
 "name":""
 },
 {
@@ -43129,11 +43126,39 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2717",
+"id":"GW101-3H11_contig_1_3919",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_693",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2236",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2991",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_4755",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1305",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4685",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3885",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2282",
 "name":""
 },
 {
@@ -43145,14 +43170,6 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2282",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3885",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1024",
 "name":""
 },
@@ -43161,7 +43178,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1276",
+"id":"GW101-3H11_contig_1_1278",
 "name":""
 },
 {
@@ -43169,15 +43186,11 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_1311",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_1281",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1278",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1277",
 "name":""
 },
 {
@@ -43185,11 +43198,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1311",
+"id":"GW101-3H11_contig_1_1276",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_1280",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1277",
 "name":""
 },
 {
@@ -43217,15 +43234,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2660",
+"id":"GW101-3H11_contig_1_3459",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4838",
+"id":"GW101-3H11_contig_1_3971",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2309",
+"id":"GW101-3H11_contig_1_2403",
 "name":""
 },
 {
@@ -43233,7 +43250,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2",
+"id":"GW101-3H11_contig_1_2309",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4838",
 "name":""
 },
 {
@@ -43241,7 +43262,23 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1810",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3073",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2098",
 "name":""
 },
 {
@@ -43249,7 +43286,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1810",
+"id":"GW101-3H11_contig_1_2344",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2660",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1469",
 "name":""
 },
 {
@@ -43258,34 +43303,6 @@
 },
 {
 "id":"GW101-3H11_contig_1_1",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1469",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2403",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3971",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3073",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3459",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2098",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2344",
 "name":""
 },
 {
@@ -43313,19 +43330,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1171",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2600",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2960",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2878",
+"id":"GW101-3H11_contig_1_1171",
 "name":""
 },
 {
@@ -43333,7 +43342,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2879",
+"id":"GW101-3H11_contig_1_2960",
 "name":""
 },
 {
@@ -43341,11 +43350,19 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3719",
+"id":"GW101-3H11_contig_1_2878",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2879",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_3720",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3719",
 "name":""
 },
 {
@@ -43409,11 +43426,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2011",
+"id":"GW101-3H11_contig_1_3947",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3947",
+"id":"GW101-3H11_contig_1_2011",
 "name":""
 },
 {
@@ -43461,15 +43478,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1745",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1746",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2230",
+"id":"GW101-3H11_contig_1_1745",
 "name":""
 },
 {
@@ -43477,15 +43490,19 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2230",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3753",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3300",
+"id":"GW101-3H11_contig_1_3499",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3499",
+"id":"GW101-3H11_contig_1_3300",
 "name":""
 },
 {
@@ -43509,11 +43526,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4643",
+"id":"GW101-3H11_contig_1_4644",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4644",
+"id":"GW101-3H11_contig_1_4643",
 "name":""
 },
 {
@@ -43561,10 +43578,6 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_985",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_4656",
 "name":""
 },
@@ -43573,7 +43586,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_257",
+"id":"GW101-3H11_contig_1_985",
 "name":""
 },
 {
@@ -43581,27 +43594,11 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_257",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_1562",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2815",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_870",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1130",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_2406",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4290",
 "name":""
 },
 {
@@ -43609,15 +43606,35 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_870",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4290",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2815",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2406",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1130",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3008",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2837",
+"id":"GW101-3H11_contig_1_2836",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2836",
+"id":"GW101-3H11_contig_1_2837",
 "name":""
 },
 {
@@ -43641,11 +43658,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_759",
+"id":"GW101-3H11_contig_1_755",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_755",
+"id":"GW101-3H11_contig_1_759",
 "name":""
 },
 {
@@ -43653,11 +43670,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4640",
+"id":"GW101-3H11_contig_1_409",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_409",
+"id":"GW101-3H11_contig_1_4640",
 "name":""
 },
 {
@@ -43665,11 +43682,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_4090",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_336",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4090",
+"id":"GW101-3H11_contig_1_1386",
 "name":""
 },
 {
@@ -43678,10 +43699,6 @@
 },
 {
 "id":"GW101-3H11_contig_1_2540",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1386",
 "name":""
 },
 {
@@ -43733,11 +43750,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4265",
+"id":"GW101-3H11_contig_1_220",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_220",
+"id":"GW101-3H11_contig_1_4265",
 "name":""
 },
 {
@@ -43857,11 +43874,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1043",
+"id":"GW101-3H11_contig_1_3789",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3789",
+"id":"GW101-3H11_contig_1_1043",
 "name":""
 },
 {
@@ -43869,15 +43886,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1918",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_486",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4955",
+"id":"GW101-3H11_contig_1_487",
 "name":""
 },
 {
@@ -43889,6 +43898,10 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_486",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_3460",
 "name":""
 },
@@ -43897,7 +43910,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_487",
+"id":"GW101-3H11_contig_1_4955",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1918",
 "name":""
 },
 {
@@ -43921,6 +43938,10 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_2244",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_2246",
 "name":""
 },
@@ -43929,15 +43950,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2244",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1849",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_784",
 "name":""
 },
 {
@@ -43945,11 +43958,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1743",
+"id":"GW101-3H11_contig_1_784",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_2007",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_1743",
 "name":""
 },
 {
@@ -43989,11 +44006,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1011",
+"id":"GW101-3H11_contig_1_4749",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4749",
+"id":"GW101-3H11_contig_1_1011",
 "name":""
 },
 {
@@ -44001,11 +44018,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3988",
+"id":"GW101-3H11_contig_1_2004",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2004",
+"id":"GW101-3H11_contig_1_3988",
 "name":""
 },
 {
@@ -44073,15 +44090,15 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_3005",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4395",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_4529",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_3005",
 "name":""
 },
 {
@@ -44101,15 +44118,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3862",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2916",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_2970",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3862",
 "name":""
 },
 {
@@ -44125,15 +44142,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2908",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_2366",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_2549",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_2908",
 "name":""
 },
 {
@@ -44165,11 +44182,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_570",
+"id":"GW101-3H11_contig_1_571",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_571",
+"id":"GW101-3H11_contig_1_570",
 "name":""
 },
 {
@@ -44177,11 +44194,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_521",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_523",
+"id":"GW101-3H11_contig_1_520",
 "name":""
 },
 {
@@ -44189,7 +44202,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_520",
+"id":"GW101-3H11_contig_1_523",
 "name":""
 },
 {
@@ -44197,11 +44210,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1760",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1759",
+"id":"GW101-3H11_contig_1_521",
 "name":""
 },
 {
@@ -44213,15 +44222,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3286",
+"id":"GW101-3H11_contig_1_1759",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3289",
+"id":"GW101-3H11_contig_1_1760",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3288",
+"id":"GW101-3H11_contig_1_3284",
 "name":""
 },
 {
@@ -44229,7 +44238,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_3284",
+"id":"GW101-3H11_contig_1_3289",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3286",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_3288",
 "name":""
 },
 {
@@ -44241,23 +44258,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_1569",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1568",
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_1569",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_4506",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4503",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_4507",
 "name":""
 },
 {
@@ -44269,6 +44278,14 @@
 "name":""
 },
 {
+"id":"GW101-3H11_contig_1_4507",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4503",
+"name":""
+},
+{
 "id":"GW101-3H11_contig_1_1427",
 "name":""
 },
@@ -44277,11 +44294,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2390",
+"id":"GW101-3H11_contig_1_2391",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2391",
+"id":"GW101-3H11_contig_1_2390",
 "name":""
 },
 {
@@ -44293,7 +44310,7 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_457",
+"id":"GW101-3H11_contig_1_464",
 "name":""
 },
 {
@@ -44302,6 +44319,18 @@
 },
 {
 "id":"GW101-3H11_contig_1_459",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_457",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_465",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_463",
 "name":""
 },
 {
@@ -44317,23 +44346,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_463",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_465",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_464",
+"id":"GW101-3H11_contig_1_1093",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_1092",
-"name":""
-},
-{
-"id":"GW101-3H11_contig_1_1093",
 "name":""
 },
 {
@@ -44345,11 +44362,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4035",
+"id":"GW101-3H11_contig_1_4040",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4040",
+"id":"GW101-3H11_contig_1_4035",
 "name":""
 },
 {
@@ -44453,15 +44470,15 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4145",
-"name":""
-},
-{
 "id":"GW101-3H11_contig_1_1320",
 "name":""
 },
 {
 "id":"GW101-3H11_contig_1_4683",
+"name":""
+},
+{
+"id":"GW101-3H11_contig_1_4145",
 "name":""
 },
 {
@@ -44477,11 +44494,11 @@
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_2666",
+"id":"GW101-3H11_contig_1_4911",
 "name":""
 },
 {
-"id":"GW101-3H11_contig_1_4911",
+"id":"GW101-3H11_contig_1_2666",
 "name":""
 },
 {

@@ -11861,16 +11861,6 @@
 }
 },
 {
-"id":"cpd03919_c0",
-"name":"Adenosyl cobinamide phosphate [c0]",
-"compartment":"c0",
-"charge":2,
-"formula":"C58H86CoN16O14P",
-"notes":{
-"modelseed_template_id":"cpd03919_c"
-}
-},
-{
 "id":"cpd00034_e0",
 "name":"Zn2+ [e0]",
 "compartment":"e0",
@@ -11898,6 +11888,16 @@
 "formula":"C11H10O6",
 "notes":{
 "modelseed_template_id":"cpd03451_c"
+}
+},
+{
+"id":"cpd03919_c0",
+"name":"Adenosyl cobinamide phosphate [c0]",
+"compartment":"c0",
+"charge":2,
+"formula":"C58H86CoN16O14P",
+"notes":{
+"modelseed_template_id":"cpd03919_c"
 }
 },
 {
@@ -12024,7 +12024,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1579 or FW510-R12_contig_1_3404) and (FW510-R12_contig_1_1579 or FW510-R12_contig_1_3403)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3404 or FW510-R12_contig_1_1579) and (FW510-R12_contig_1_3403 or FW510-R12_contig_1_1579)",
 "notes":{
 "modelseed_complex":"cpx00466"
 },
@@ -12168,7 +12168,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -12309,7 +12309,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2110 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078)",
+"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110)",
 "notes":{
 "modelseed_complex":"cpx01599;tcpx00306"
 },
@@ -12496,7 +12496,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -12537,7 +12537,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -12772,7 +12772,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1086 or FW510-R12_contig_1_3551 or FW510-R12_contig_1_3543 or FW510-R12_contig_1_1398 or FW510-R12_contig_1_1436 or FW510-R12_contig_1_3461 or FW510-R12_contig_1_1582 or FW510-R12_contig_1_1514 or FW510-R12_contig_1_3058 or FW510-R12_contig_1_3164 or FW510-R12_contig_1_1576) or FW510-R12_contig_1_695",
+"gene_reaction_rule":"(FW510-R12_contig_1_1398 or FW510-R12_contig_1_3058 or FW510-R12_contig_1_3164 or FW510-R12_contig_1_1576 or FW510-R12_contig_1_1582 or FW510-R12_contig_1_1436 or FW510-R12_contig_1_3461 or FW510-R12_contig_1_1086 or FW510-R12_contig_1_3543 or FW510-R12_contig_1_1514 or FW510-R12_contig_1_3551) or FW510-R12_contig_1_695",
 "notes":{
 "modelseed_complex":"cpx01409;tcpx01368"
 },
@@ -12792,7 +12792,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -13366,7 +13366,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_618 or (FW510-R12_contig_1_953 and FW510-R12_contig_1_953)",
+"gene_reaction_rule":"(FW510-R12_contig_1_953 and FW510-R12_contig_1_953) or FW510-R12_contig_1_618",
 "notes":{
 "modelseed_complex":"cpx00322;cpx01545"
 },
@@ -13387,7 +13387,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -13748,7 +13748,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2855 or FW510-R12_contig_1_2421) or FW510-R12_contig_1_2849",
+"gene_reaction_rule":"FW510-R12_contig_1_2849 or (FW510-R12_contig_1_2421 or FW510-R12_contig_1_2855)",
 "notes":{
 "modelseed_complex":"cpx00501;tcpx00149"
 },
@@ -13833,7 +13833,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -13959,7 +13959,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -13978,7 +13978,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1599 or FW510-R12_contig_1_1733",
+"gene_reaction_rule":"FW510-R12_contig_1_1733 or FW510-R12_contig_1_1599",
 "notes":{
 "modelseed_complex":"cpx01683"
 },
@@ -13998,7 +13998,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or FW510-R12_contig_1_2210",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -14064,7 +14064,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2415 or FW510-R12_contig_1_1815 or FW510-R12_contig_1_941",
+"gene_reaction_rule":"FW510-R12_contig_1_941 or FW510-R12_contig_1_2415 or FW510-R12_contig_1_1815",
 "notes":{
 "modelseed_complex":"cpx00259"
 },
@@ -14130,7 +14130,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -14173,7 +14173,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_382 or (FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753) or FW510-R12_contig_1_382",
 "notes":{
 "modelseed_complex":"cpx52483;tcpx00355"
 },
@@ -14194,7 +14194,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -14305,7 +14305,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2415 or FW510-R12_contig_1_1815 or FW510-R12_contig_1_941",
+"gene_reaction_rule":"FW510-R12_contig_1_941 or FW510-R12_contig_1_2415 or FW510-R12_contig_1_1815",
 "notes":{
 "modelseed_complex":"cpx00259"
 },
@@ -14346,7 +14346,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -14429,7 +14429,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -14450,7 +14450,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1579 or FW510-R12_contig_1_3404) and (FW510-R12_contig_1_1579 or FW510-R12_contig_1_3403)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3404 or FW510-R12_contig_1_1579) and (FW510-R12_contig_1_3403 or FW510-R12_contig_1_1579)",
 "notes":{
 "modelseed_complex":"cpx00466"
 },
@@ -14528,7 +14528,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -14549,7 +14549,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3160 or FW510-R12_contig_1_3159",
+"gene_reaction_rule":"FW510-R12_contig_1_3159 or FW510-R12_contig_1_3160",
 "notes":{
 "modelseed_complex":"cpx00019"
 },
@@ -14589,7 +14589,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1597 or FW510-R12_contig_2_84 or FW510-R12_contig_1_2147) and (FW510-R12_contig_2_83 or FW510-R12_contig_1_2148) and FW510-R12_contig_1_1595",
+"gene_reaction_rule":"(FW510-R12_contig_1_2147 or FW510-R12_contig_2_84 or FW510-R12_contig_1_1597) and (FW510-R12_contig_2_83 or FW510-R12_contig_1_2148) and FW510-R12_contig_1_1595",
 "notes":{
 "modelseed_complex":"tcpx01185"
 },
@@ -14688,7 +14688,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -14731,7 +14731,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -14858,7 +14858,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1724 or FW510-R12_contig_1_3225) or (FW510-R12_contig_1_3224 or FW510-R12_contig_1_1723)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3224 or FW510-R12_contig_1_1723) or (FW510-R12_contig_1_3225 or FW510-R12_contig_1_1724)",
 "notes":{
 "modelseed_complex":"tcpx00372;tcpx00373"
 },
@@ -14978,7 +14978,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3160 or FW510-R12_contig_1_3159",
+"gene_reaction_rule":"FW510-R12_contig_1_3159 or FW510-R12_contig_1_3160",
 "notes":{
 "modelseed_complex":"cpx00019"
 },
@@ -15000,7 +15000,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3375 or FW510-R12_contig_1_39",
+"gene_reaction_rule":"FW510-R12_contig_1_39 or FW510-R12_contig_1_3375",
 "notes":{
 "modelseed_complex":"cpx00837;cpx01143"
 },
@@ -15119,7 +15119,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -15140,7 +15140,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2110 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078) or (FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110)",
+"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110) or (FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643)",
 "notes":{
 "modelseed_complex":"cpx00206;cpx01599;tcpx00306"
 },
@@ -15199,7 +15199,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1123 or FW510-R12_contig_1_641",
+"gene_reaction_rule":"FW510-R12_contig_1_641 or FW510-R12_contig_1_1123",
 "notes":{
 "modelseed_complex":"cpx00113"
 },
@@ -15263,7 +15263,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2323 or FW510-R12_contig_1_1714 or FW510-R12_contig_1_2179",
+"gene_reaction_rule":"FW510-R12_contig_1_1714 or FW510-R12_contig_1_2179 or FW510-R12_contig_1_2323",
 "notes":{
 "modelseed_complex":"tcpx00605"
 },
@@ -15284,7 +15284,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1022 or FW510-R12_contig_1_3182",
+"gene_reaction_rule":"FW510-R12_contig_1_3182 or FW510-R12_contig_1_1022",
 "notes":{
 "modelseed_complex":"cpx00910;cpx52754"
 },
@@ -15448,7 +15448,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -15469,7 +15469,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923) or (FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -15489,7 +15489,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -15572,7 +15572,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2341 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_1090 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802",
+"gene_reaction_rule":"FW510-R12_contig_1_1090 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_2341",
 "notes":{
 "modelseed_complex":"cpx00893"
 },
@@ -15632,7 +15632,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626) or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;cpx00666"
 },
@@ -15714,7 +15714,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_132 or FW510-R12_contig_1_293) or FW510-R12_contig_1_1485",
+"gene_reaction_rule":"FW510-R12_contig_1_1485 or (FW510-R12_contig_1_132 or FW510-R12_contig_1_293)",
 "notes":{
 "modelseed_complex":"cpx00115;cpx00116"
 },
@@ -15837,7 +15837,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -16001,7 +16001,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -16084,7 +16084,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -16106,7 +16106,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -16270,7 +16270,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1001 or FW510-R12_contig_1_1004) and (FW510-R12_contig_1_1001 or FW510-R12_contig_1_1004)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1004 or FW510-R12_contig_1_1001) and (FW510-R12_contig_1_1004 or FW510-R12_contig_1_1001)",
 "notes":{
 "modelseed_complex":"cpx01613"
 },
@@ -16825,7 +16825,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -16844,7 +16844,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -16865,7 +16865,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_642 or FW510-R12_contig_1_1482",
+"gene_reaction_rule":"FW510-R12_contig_1_1482 or FW510-R12_contig_1_642",
 "notes":{
 "modelseed_complex":"cpx00620"
 },
@@ -17025,7 +17025,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -17066,7 +17066,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -17169,7 +17169,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -17271,7 +17271,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1909 and FW510-R12_contig_1_1908 and (FW510-R12_contig_1_3490 or FW510-R12_contig_1_1911) and FW510-R12_contig_1_1910) or (FW510-R12_contig_1_113 or FW510-R12_contig_1_998 or FW510-R12_contig_1_1103 or FW510-R12_contig_1_1105 or FW510-R12_contig_1_1100)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1105 or FW510-R12_contig_1_1100 or FW510-R12_contig_1_998 or FW510-R12_contig_1_113 or FW510-R12_contig_1_1103) or (FW510-R12_contig_1_1909 and FW510-R12_contig_1_1908 and (FW510-R12_contig_1_3490 or FW510-R12_contig_1_1911) and FW510-R12_contig_1_1910)",
 "notes":{
 "modelseed_complex":"tcpx00586;tcpx01212"
 },
@@ -17312,7 +17312,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_636 or FW510-R12_contig_1_944",
+"gene_reaction_rule":"FW510-R12_contig_1_944 or FW510-R12_contig_1_636",
 "notes":{
 "modelseed_complex":"cpx00146"
 },
@@ -17460,7 +17460,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -17499,7 +17499,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1579 or FW510-R12_contig_1_3404) and (FW510-R12_contig_1_1579 or FW510-R12_contig_1_3403)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3404 or FW510-R12_contig_1_1579) and (FW510-R12_contig_1_3403 or FW510-R12_contig_1_1579)",
 "notes":{
 "modelseed_complex":"cpx00466"
 },
@@ -17723,7 +17723,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -17744,7 +17744,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2110 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078)",
+"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110)",
 "notes":{
 "modelseed_complex":"cpx01599;tcpx00306"
 },
@@ -17947,7 +17947,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_626 or FW510-R12_contig_1_3249",
+"gene_reaction_rule":"FW510-R12_contig_1_3249 or FW510-R12_contig_1_626",
 "notes":{
 "modelseed_complex":"cpx00388"
 },
@@ -18007,7 +18007,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -18093,7 +18093,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_865 or FW510-R12_contig_1_2284",
+"gene_reaction_rule":"FW510-R12_contig_1_2284 or FW510-R12_contig_1_865",
 "notes":{
 "modelseed_complex":"tcpx00778"
 },
@@ -18156,7 +18156,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -18176,7 +18176,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -18566,7 +18566,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_642 or FW510-R12_contig_1_1482",
+"gene_reaction_rule":"FW510-R12_contig_1_1482 or FW510-R12_contig_1_642",
 "notes":{
 "modelseed_complex":"cpx00620"
 },
@@ -18871,7 +18871,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1485 or (FW510-R12_contig_1_132 or FW510-R12_contig_1_293)",
+"gene_reaction_rule":"(FW510-R12_contig_1_132 or FW510-R12_contig_1_293) or FW510-R12_contig_1_1485",
 "notes":{
 "modelseed_complex":"cpx00115;cpx00116"
 },
@@ -18892,7 +18892,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -18953,7 +18953,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -19036,7 +19036,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2793 or FW510-R12_contig_1_2794",
+"gene_reaction_rule":"FW510-R12_contig_1_2794 or FW510-R12_contig_1_2793",
 "notes":{
 "modelseed_complex":"cpx00152"
 },
@@ -19367,7 +19367,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -19654,7 +19654,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377) and FW510-R12_contig_1_715",
+"gene_reaction_rule":"(FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753) and FW510-R12_contig_1_715",
 "notes":{
 "modelseed_complex":"tcpx00294"
 },
@@ -19674,7 +19674,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1001 or FW510-R12_contig_1_1004) and (FW510-R12_contig_1_1001 or FW510-R12_contig_1_1004)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1004 or FW510-R12_contig_1_1001) and (FW510-R12_contig_1_1004 or FW510-R12_contig_1_1001)",
 "notes":{
 "modelseed_complex":"cpx01613"
 },
@@ -19696,7 +19696,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -19779,7 +19779,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3174 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052)",
 "notes":{
 "modelseed_complex":"cpx00046;cpx00048;cpx00051"
 },
@@ -19840,7 +19840,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1859 or FW510-R12_contig_1_1832 or FW510-R12_contig_1_2448",
+"gene_reaction_rule":"FW510-R12_contig_1_1832 or FW510-R12_contig_1_1859 or FW510-R12_contig_1_2448",
 "notes":{
 "modelseed_complex":"cpx00571"
 },
@@ -19860,7 +19860,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -19921,7 +19921,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -20165,7 +20165,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -20293,7 +20293,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -20313,7 +20313,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -20435,7 +20435,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -20473,7 +20473,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2289 or FW510-R12_contig_1_2285",
+"gene_reaction_rule":"FW510-R12_contig_1_2285 or FW510-R12_contig_1_2289",
 "notes":{
 "modelseed_complex":"cpx00788"
 },
@@ -20535,7 +20535,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2488 or FW510-R12_contig_1_2705",
+"gene_reaction_rule":"FW510-R12_contig_1_2705 or FW510-R12_contig_1_2488",
 "notes":{
 "modelseed_complex":"cpx01000"
 },
@@ -20573,7 +20573,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1671 or (FW510-R12_contig_1_1859 or FW510-R12_contig_1_1832 or FW510-R12_contig_1_2448) or FW510-R12_contig_1_698",
+"gene_reaction_rule":"FW510-R12_contig_1_698 or (FW510-R12_contig_1_1832 or FW510-R12_contig_1_1859 or FW510-R12_contig_1_2448) or FW510-R12_contig_1_1671",
 "notes":{
 "modelseed_complex":"cpx00571;cpx01690;tcpx01256"
 },
@@ -20715,7 +20715,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -20797,7 +20797,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -20921,7 +20921,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -20960,7 +20960,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2669 or FW510-R12_contig_1_2505",
+"gene_reaction_rule":"FW510-R12_contig_1_2505 or FW510-R12_contig_1_2669",
 "notes":{
 "modelseed_complex":"tcpx00930"
 },
@@ -20981,7 +20981,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -21022,7 +21022,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -21215,7 +21215,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -21446,7 +21446,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -21653,7 +21653,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1575 and (FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923)",
+"gene_reaction_rule":"FW510-R12_contig_1_1575 and (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx01116"
 },
@@ -22046,7 +22046,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1751 and (FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377)",
+"gene_reaction_rule":"FW510-R12_contig_1_1751 and (FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753)",
 "notes":{
 "modelseed_complex":"tcpx00408"
 },
@@ -22066,7 +22066,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -22110,7 +22110,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2492 and FW510-R12_contig_1_2495 and FW510-R12_contig_1_2493) or FW510-R12_contig_1_2494",
+"gene_reaction_rule":"FW510-R12_contig_1_2494 or (FW510-R12_contig_1_2492 and FW510-R12_contig_1_2495 and FW510-R12_contig_1_2493)",
 "notes":{
 "modelseed_complex":"tcpx00590;tcpx01221"
 },
@@ -22151,7 +22151,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -22172,7 +22172,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_239 or (FW510-R12_contig_1_1689 or FW510-R12_contig_1_1946)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1689 or FW510-R12_contig_1_1946) or FW510-R12_contig_1_239",
 "notes":{
 "modelseed_complex":"tcpx00325;tcpx00846"
 },
@@ -22235,7 +22235,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_942 or FW510-R12_contig_1_2501",
+"gene_reaction_rule":"FW510-R12_contig_1_2501 or FW510-R12_contig_1_942",
 "notes":{
 "modelseed_complex":"cpx01302"
 },
@@ -22358,7 +22358,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1579 or FW510-R12_contig_1_3404) and (FW510-R12_contig_1_1579 or FW510-R12_contig_1_3403)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3404 or FW510-R12_contig_1_1579) and (FW510-R12_contig_1_3403 or FW510-R12_contig_1_1579)",
 "notes":{
 "modelseed_complex":"cpx00466"
 },
@@ -22462,7 +22462,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"FW510-R12_contig_1_1565 or (FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086) or FW510-R12_contig_1_1565",
 "notes":{
 "modelseed_complex":"tcpx00282;tcpx00283"
 },
@@ -22539,7 +22539,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -22603,7 +22603,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -22730,7 +22730,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3492 or FW510-R12_contig_1_3174 or FW510-R12_contig_1_703",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or FW510-R12_contig_1_703",
 "notes":{
 "modelseed_complex":"cpx00046;cpx00051;tcpx01308"
 },
@@ -22956,7 +22956,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -22976,7 +22976,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -23096,7 +23096,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -23158,7 +23158,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or FW510-R12_contig_1_2210",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -23248,7 +23248,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_382 and (FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377)",
+"gene_reaction_rule":"FW510-R12_contig_1_382 and (FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753)",
 "notes":{
 "modelseed_complex":"tcpx00400"
 },
@@ -23474,7 +23474,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110) or FW510-R12_contig_1_2682",
+"gene_reaction_rule":"FW510-R12_contig_1_2682 or (FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643)",
 "notes":{
 "modelseed_complex":"cpx00206;cpx01687"
 },
@@ -23575,7 +23575,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2341 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_1090 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802",
+"gene_reaction_rule":"FW510-R12_contig_1_1090 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_2341",
 "notes":{
 "modelseed_complex":"cpx00893"
 },
@@ -23798,7 +23798,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1495 or (FW510-R12_contig_1_933 or FW510-R12_contig_1_930)",
+"gene_reaction_rule":"(FW510-R12_contig_1_933 or FW510-R12_contig_1_930) or FW510-R12_contig_1_1495",
 "notes":{
 "modelseed_complex":"tcpx00389;tcpx01349"
 },
@@ -23839,7 +23839,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or FW510-R12_contig_1_2210",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -23964,7 +23964,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1667 or (FW510-R12_contig_1_674 or FW510-R12_contig_1_1666)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1666 or FW510-R12_contig_1_674) or FW510-R12_contig_1_1667",
 "notes":{
 "modelseed_complex":"cpx00767;cpx00769"
 },
@@ -23984,7 +23984,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -24002,7 +24002,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2292 or FW510-R12_contig_1_1886",
+"gene_reaction_rule":"FW510-R12_contig_1_1886 or FW510-R12_contig_1_2292",
 "notes":{
 "modelseed_complex":"cpx00627;tcpx00030"
 },
@@ -24066,7 +24066,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_13 or (FW510-R12_contig_1_14 or FW510-R12_contig_1_3004 or FW510-R12_contig_1_753)",
+"gene_reaction_rule":"FW510-R12_contig_1_13 or (FW510-R12_contig_1_3004 or FW510-R12_contig_1_753 or FW510-R12_contig_1_14)",
 "notes":{
 "modelseed_complex":"tcpx00280;tcpx00281"
 },
@@ -24315,7 +24315,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -24524,7 +24524,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -24543,7 +24543,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -24686,7 +24686,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_625 or FW510-R12_contig_1_3222) or (FW510-R12_contig_1_624 or FW510-R12_contig_1_3221)",
+"gene_reaction_rule":"(FW510-R12_contig_1_624 or FW510-R12_contig_1_3221) or (FW510-R12_contig_1_625 or FW510-R12_contig_1_3222)",
 "notes":{
 "modelseed_complex":"cpx01169;cpx01170"
 },
@@ -24709,7 +24709,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084) or FW510-R12_contig_1_19",
+"gene_reaction_rule":"(FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084) or FW510-R12_contig_1_19",
 "notes":{
 "modelseed_complex":"cpx00498;cpx00912"
 },
@@ -24959,7 +24959,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377",
+"gene_reaction_rule":"FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753",
 "notes":{
 "modelseed_complex":"cpx52431"
 },
@@ -24999,7 +24999,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3138 or FW510-R12_contig_1_1820",
+"gene_reaction_rule":"FW510-R12_contig_1_1820 or FW510-R12_contig_1_3138",
 "notes":{
 "modelseed_complex":"cpx01348;cpx01351"
 },
@@ -25062,7 +25062,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"FW510-R12_contig_1_620 or FW510-R12_contig_1_619 or FW510-R12_contig_1_816",
+"gene_reaction_rule":"FW510-R12_contig_1_816 or FW510-R12_contig_1_619 or FW510-R12_contig_1_620",
 "notes":{
 "modelseed_complex":"tcpx00228;tcpx00229;tcpx00230"
 },
@@ -25083,7 +25083,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1579 or FW510-R12_contig_1_3404) and (FW510-R12_contig_1_1579 or FW510-R12_contig_1_3403)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3404 or FW510-R12_contig_1_1579) and (FW510-R12_contig_1_3403 or FW510-R12_contig_1_1579)",
 "notes":{
 "modelseed_complex":"cpx00466"
 },
@@ -25182,7 +25182,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2323 or FW510-R12_contig_1_1714 or FW510-R12_contig_1_2179",
+"gene_reaction_rule":"FW510-R12_contig_1_1714 or FW510-R12_contig_1_2179 or FW510-R12_contig_1_2323",
 "notes":{
 "modelseed_complex":"cpx01697"
 },
@@ -25223,7 +25223,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2349 or (FW510-R12_contig_1_1502 or FW510-R12_contig_1_1301)",
+"gene_reaction_rule":"FW510-R12_contig_1_2349 or (FW510-R12_contig_1_1301 or FW510-R12_contig_1_1502)",
 "notes":{
 "modelseed_complex":"cpx01563;cpx01564"
 },
@@ -25325,7 +25325,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3160 or FW510-R12_contig_1_3159",
+"gene_reaction_rule":"FW510-R12_contig_1_3159 or FW510-R12_contig_1_3160",
 "notes":{
 "modelseed_complex":"cpx00019"
 },
@@ -25411,7 +25411,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or FW510-R12_contig_1_2210",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -25452,7 +25452,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_636 or FW510-R12_contig_1_944",
+"gene_reaction_rule":"FW510-R12_contig_1_944 or FW510-R12_contig_1_636",
 "notes":{
 "modelseed_complex":"cpx00146"
 },
@@ -25492,7 +25492,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1022 or FW510-R12_contig_1_3182",
+"gene_reaction_rule":"FW510-R12_contig_1_3182 or FW510-R12_contig_1_1022",
 "notes":{
 "modelseed_complex":"cpx00910;cpx52754"
 },
@@ -25699,7 +25699,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1797 and FW510-R12_contig_1_1315 and FW510-R12_contig_1_271 and FW510-R12_contig_1_1 and FW510-R12_contig_1_4 and FW510-R12_contig_1_2376 and (FW510-R12_contig_2_203 or FW510-R12_contig_1_2) and FW510-R12_contig_1_1944 and (FW510-R12_contig_2_21 or FW510-R12_contig_1_971) and FW510-R12_contig_1_793 and FW510-R12_contig_1_3175 and FW510-R12_contig_1_1759 and FW510-R12_contig_1_1837 and FW510-R12_contig_1_589 and FW510-R12_contig_1_1836 and FW510-R12_contig_1_1738 and FW510-R12_contig_1_1421",
+"gene_reaction_rule":"FW510-R12_contig_1_1797 and FW510-R12_contig_1_1315 and FW510-R12_contig_1_271 and FW510-R12_contig_1_1 and FW510-R12_contig_1_4 and FW510-R12_contig_1_2376 and (FW510-R12_contig_1_2 or FW510-R12_contig_2_203) and FW510-R12_contig_1_1944 and (FW510-R12_contig_2_21 or FW510-R12_contig_1_971) and FW510-R12_contig_1_793 and FW510-R12_contig_1_3175 and FW510-R12_contig_1_1759 and FW510-R12_contig_1_1837 and FW510-R12_contig_1_589 and FW510-R12_contig_1_1836 and FW510-R12_contig_1_1738 and FW510-R12_contig_1_1421",
 "notes":{
 "modelseed_complex":"tcpx01183"
 },
@@ -25861,7 +25861,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2410 or FW510-R12_contig_1_2159",
+"gene_reaction_rule":"FW510-R12_contig_1_2159 or FW510-R12_contig_1_2410",
 "notes":{
 "modelseed_complex":"cpx00197"
 },
@@ -25881,7 +25881,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2445 or FW510-R12_contig_1_1600",
+"gene_reaction_rule":"FW510-R12_contig_1_1600 or FW510-R12_contig_1_2445",
 "notes":{
 "modelseed_complex":"cpx01434"
 },
@@ -26008,7 +26008,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2548 or FW510-R12_contig_1_2279",
+"gene_reaction_rule":"FW510-R12_contig_1_2279 or FW510-R12_contig_1_2548",
 "notes":{
 "modelseed_complex":"cpx01659"
 },
@@ -26071,7 +26071,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -26237,7 +26237,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1859 or FW510-R12_contig_1_1832 or FW510-R12_contig_1_2448",
+"gene_reaction_rule":"FW510-R12_contig_1_1832 or FW510-R12_contig_1_1859 or FW510-R12_contig_1_2448",
 "notes":{
 "modelseed_complex":"cpx00571"
 },
@@ -26278,7 +26278,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -26384,7 +26384,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -26423,7 +26423,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_173 or FW510-R12_contig_1_1898 or FW510-R12_contig_1_490",
+"gene_reaction_rule":"FW510-R12_contig_1_1898 or FW510-R12_contig_1_490 or FW510-R12_contig_1_173",
 "notes":{
 "modelseed_complex":"cpx00725"
 },
@@ -26444,7 +26444,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -26816,7 +26816,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -26858,7 +26858,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -26878,7 +26878,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_173 or FW510-R12_contig_1_1898 or FW510-R12_contig_1_490",
+"gene_reaction_rule":"FW510-R12_contig_1_1898 or FW510-R12_contig_1_490 or FW510-R12_contig_1_173",
 "notes":{
 "modelseed_complex":"cpx00725"
 },
@@ -26940,7 +26940,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -27066,7 +27066,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1313 or FW510-R12_contig_1_1650",
+"gene_reaction_rule":"FW510-R12_contig_1_1650 or FW510-R12_contig_1_1313",
 "notes":{
 "modelseed_complex":"tcpx00161;tcpx00162"
 },
@@ -27207,7 +27207,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"FW510-R12_contig_1_348 or FW510-R12_contig_1_221",
+"gene_reaction_rule":"FW510-R12_contig_1_221 or FW510-R12_contig_1_348",
 "notes":{
 "modelseed_complex":"tcpx00401"
 },
@@ -27250,7 +27250,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3112 or FW510-R12_contig_2_94 or FW510-R12_contig_2_92 or FW510-R12_contig_1_2137 or FW510-R12_contig_1_2139 or FW510-R12_contig_1_2130 or FW510-R12_contig_1_1663 or FW510-R12_contig_1_2047",
+"gene_reaction_rule":"FW510-R12_contig_1_1663 or FW510-R12_contig_1_2130 or FW510-R12_contig_2_92 or FW510-R12_contig_1_2137 or FW510-R12_contig_2_94 or FW510-R12_contig_1_2047 or FW510-R12_contig_1_2139 or FW510-R12_contig_1_3112",
 "notes":{
 "modelseed_complex":"cpx00233"
 },
@@ -27271,7 +27271,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2110 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078)",
+"gene_reaction_rule":"FW510-R12_contig_1_2209 or (FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110)",
 "notes":{
 "modelseed_complex":"cpx01599;tcpx00306"
 },
@@ -27313,7 +27313,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or FW510-R12_contig_1_2210",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -27436,7 +27436,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_626 or FW510-R12_contig_1_3249",
+"gene_reaction_rule":"FW510-R12_contig_1_3249 or FW510-R12_contig_1_626",
 "notes":{
 "modelseed_complex":"cpx00388"
 },
@@ -27456,7 +27456,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_857 or FW510-R12_contig_1_1483",
+"gene_reaction_rule":"FW510-R12_contig_1_1483 or FW510-R12_contig_1_857",
 "notes":{
 "modelseed_complex":"cpx01459;cpx52471"
 },
@@ -27477,7 +27477,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_353 or FW510-R12_contig_1_389",
+"gene_reaction_rule":"FW510-R12_contig_1_389 or FW510-R12_contig_1_353",
 "notes":{
 "modelseed_complex":"tcpx00416"
 },
@@ -27642,7 +27642,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377) or FW510-R12_contig_1_715",
+"gene_reaction_rule":"FW510-R12_contig_1_715 or (FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753)",
 "notes":{
 "modelseed_complex":"cpx00011;tcpx00412"
 },
@@ -27746,7 +27746,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3258 or FW510-R12_contig_1_2288",
+"gene_reaction_rule":"FW510-R12_contig_1_2288 or FW510-R12_contig_1_3258",
 "notes":{
 "modelseed_complex":"tcpx00113"
 },
@@ -27827,7 +27827,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2737 or FW510-R12_contig_1_1947",
+"gene_reaction_rule":"FW510-R12_contig_1_1947 or FW510-R12_contig_1_2737",
 "notes":{
 "modelseed_complex":"tcpx00153"
 },
@@ -27947,7 +27947,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111)",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626) or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;cpx00666;tcpx00072"
 },
@@ -28072,7 +28072,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -28094,7 +28094,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -28156,7 +28156,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -28219,7 +28219,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3558 or FW510-R12_contig_1_3368",
+"gene_reaction_rule":"FW510-R12_contig_1_3368 or FW510-R12_contig_1_3558",
 "notes":{
 "modelseed_complex":"cpx00325"
 },
@@ -28239,7 +28239,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1561 or FW510-R12_contig_1_1563",
+"gene_reaction_rule":"FW510-R12_contig_1_1563 or FW510-R12_contig_1_1561",
 "notes":{
 "modelseed_complex":"cpx00684;tcpx01107"
 },
@@ -28347,7 +28347,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -28489,7 +28489,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -28569,7 +28569,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_626 or FW510-R12_contig_1_3249",
+"gene_reaction_rule":"FW510-R12_contig_1_3249 or FW510-R12_contig_1_626",
 "notes":{
 "modelseed_complex":"cpx00388"
 },
@@ -28631,7 +28631,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -28676,7 +28676,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -28756,7 +28756,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -28797,7 +28797,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2010 or FW510-R12_contig_1_34",
+"gene_reaction_rule":"FW510-R12_contig_1_34 or FW510-R12_contig_1_2010",
 "notes":{
 "modelseed_complex":"cpx01568"
 },
@@ -28941,7 +28941,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -29270,7 +29270,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -29312,7 +29312,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1230 or FW510-R12_contig_1_744) or ((FW510-R12_contig_1_674 or FW510-R12_contig_1_1666) and FW510-R12_contig_1_1667)",
+"gene_reaction_rule":"((FW510-R12_contig_1_1666 or FW510-R12_contig_1_674) and FW510-R12_contig_1_1667) or (FW510-R12_contig_1_1230 or FW510-R12_contig_1_744)",
 "notes":{
 "modelseed_complex":"cpx00988;tcpx00130"
 },
@@ -29393,7 +29393,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3558 or FW510-R12_contig_1_3368",
+"gene_reaction_rule":"FW510-R12_contig_1_3368 or FW510-R12_contig_1_3558",
 "notes":{
 "modelseed_complex":"cpx00325"
 },
@@ -29435,7 +29435,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1804 or FW510-R12_contig_1_839",
+"gene_reaction_rule":"FW510-R12_contig_1_839 or FW510-R12_contig_1_1804",
 "notes":{
 "modelseed_complex":"cpx00973;cpx00974"
 },
@@ -29517,7 +29517,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2341 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_1090 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802",
+"gene_reaction_rule":"FW510-R12_contig_1_1090 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_2341",
 "notes":{
 "modelseed_complex":"cpx00893"
 },
@@ -29723,7 +29723,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2110 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2682 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
 "notes":{
 "modelseed_complex":"cpx00104"
 },
@@ -29782,7 +29782,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_173 or FW510-R12_contig_1_1898 or FW510-R12_contig_1_490",
+"gene_reaction_rule":"FW510-R12_contig_1_1898 or FW510-R12_contig_1_490 or FW510-R12_contig_1_173",
 "notes":{
 "modelseed_complex":"cpx00725"
 },
@@ -29803,7 +29803,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_674 or FW510-R12_contig_1_1666) and FW510-R12_contig_1_1667",
+"gene_reaction_rule":"(FW510-R12_contig_1_1666 or FW510-R12_contig_1_674) and FW510-R12_contig_1_1667",
 "notes":{
 "modelseed_complex":"tcpx00130"
 },
@@ -29884,7 +29884,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_222 or (FW510-R12_contig_1_3170 or FW510-R12_contig_1_1179)",
+"gene_reaction_rule":"FW510-R12_contig_1_222 or (FW510-R12_contig_1_1179 or FW510-R12_contig_1_3170)",
 "notes":{
 "modelseed_complex":"cpx00942;cpx00943"
 },
@@ -29947,7 +29947,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -29966,7 +29966,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -29986,7 +29986,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2403 or FW510-R12_contig_1_2670",
+"gene_reaction_rule":"FW510-R12_contig_1_1571 or FW510-R12_contig_1_2670 or FW510-R12_contig_1_2403",
 "notes":{
 "modelseed_complex":"cpx00863;cpx01447;cpx52456"
 },
@@ -30007,7 +30007,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -30133,7 +30133,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_13 and (FW510-R12_contig_1_14 or FW510-R12_contig_1_3004 or FW510-R12_contig_1_753)",
+"gene_reaction_rule":"FW510-R12_contig_1_13 and (FW510-R12_contig_1_3004 or FW510-R12_contig_1_753 or FW510-R12_contig_1_14)",
 "notes":{
 "modelseed_complex":"cpx00780"
 },
@@ -30175,7 +30175,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_1579 or FW510-R12_contig_1_3404) and (FW510-R12_contig_1_1579 or FW510-R12_contig_1_3403)",
+"gene_reaction_rule":"(FW510-R12_contig_1_3404 or FW510-R12_contig_1_1579) and (FW510-R12_contig_1_3403 or FW510-R12_contig_1_1579)",
 "notes":{
 "modelseed_complex":"cpx00466"
 },
@@ -30256,7 +30256,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377) or FW510-R12_contig_1_715",
+"gene_reaction_rule":"FW510-R12_contig_1_715 or (FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753)",
 "notes":{
 "modelseed_complex":"cpx00011;cpx52431"
 },
@@ -30401,7 +30401,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -30523,7 +30523,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377",
+"gene_reaction_rule":"FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753",
 "notes":{
 "modelseed_complex":"cpx52431"
 },
@@ -30566,7 +30566,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3562 and FW510-R12_contig_1_2357 and FW510-R12_contig_1_219 and FW510-R12_contig_1_1288 and (FW510-R12_contig_1_1258 or FW510-R12_contig_1_1257) and FW510-R12_contig_1_1787",
+"gene_reaction_rule":"FW510-R12_contig_1_3562 and FW510-R12_contig_1_2357 and FW510-R12_contig_1_219 and FW510-R12_contig_1_1288 and (FW510-R12_contig_1_1257 or FW510-R12_contig_1_1258) and FW510-R12_contig_1_1787",
 "notes":{
 "modelseed_complex":"cpx01056"
 },
@@ -30729,7 +30729,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -30815,7 +30815,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -30859,7 +30859,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2684 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2087 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086 or FW510-R12_contig_1_923) or (FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076)",
+"gene_reaction_rule":"(FW510-R12_contig_1_2116 or FW510-R12_contig_1_2076) or (FW510-R12_contig_1_2087 or FW510-R12_contig_1_2107 or FW510-R12_contig_1_2684 or FW510-R12_contig_1_923 or FW510-R12_contig_1_2102 or FW510-R12_contig_1_2562 or FW510-R12_contig_1_2086)",
 "notes":{
 "modelseed_complex":"tcpx00054;tcpx00282"
 },
@@ -31026,7 +31026,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3010 or FW510-R12_contig_1_1637",
+"gene_reaction_rule":"FW510-R12_contig_1_1637 or FW510-R12_contig_1_3010",
 "notes":{
 "modelseed_complex":"cpx00251"
 },
@@ -31070,7 +31070,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377) and FW510-R12_contig_1_1319",
+"gene_reaction_rule":"(FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753) and FW510-R12_contig_1_1319",
 "notes":{
 "modelseed_complex":"tcpx00746"
 },
@@ -31108,7 +31108,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -31129,7 +31129,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2341 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_1090 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802",
+"gene_reaction_rule":"FW510-R12_contig_1_1090 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_2341",
 "notes":{
 "modelseed_complex":"cpx00893"
 },
@@ -31236,7 +31236,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_382 or (FW510-R12_contig_1_442 or FW510-R12_contig_1_1753 or FW510-R12_contig_1_1377)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1377 or FW510-R12_contig_1_442 or FW510-R12_contig_1_1753) or FW510-R12_contig_1_382",
 "notes":{
 "modelseed_complex":"cpx52483;tcpx00355"
 },
@@ -31254,7 +31254,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2267 or FW510-R12_contig_1_3520",
+"gene_reaction_rule":"FW510-R12_contig_1_3520 or FW510-R12_contig_1_2267",
 "notes":{
 "modelseed_complex":"cpx00471"
 },
@@ -31317,7 +31317,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -31437,7 +31437,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2643 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2366 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110",
+"gene_reaction_rule":"FW510-R12_contig_1_2366 or FW510-R12_contig_1_2078 or FW510-R12_contig_1_2110 or FW510-R12_contig_1_3234 or FW510-R12_contig_1_2638 or FW510-R12_contig_1_2643",
 "notes":{
 "modelseed_complex":"cpx00206"
 },
@@ -31524,7 +31524,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2341 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_1090 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802",
+"gene_reaction_rule":"FW510-R12_contig_1_1090 or FW510-R12_contig_1_1015 or FW510-R12_contig_1_2081 or FW510-R12_contig_1_1802 or FW510-R12_contig_1_2602 or FW510-R12_contig_1_2341",
 "notes":{
 "modelseed_complex":"tcpx01089"
 },
@@ -31668,7 +31668,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1859 or FW510-R12_contig_1_1832 or FW510-R12_contig_1_2448",
+"gene_reaction_rule":"FW510-R12_contig_1_1832 or FW510-R12_contig_1_1859 or FW510-R12_contig_1_2448",
 "notes":{
 "modelseed_complex":"cpx00571"
 },
@@ -32162,7 +32162,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_3540 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111) or FW510-R12_contig_1_2210",
+"gene_reaction_rule":"FW510-R12_contig_1_2210 or (FW510-R12_contig_1_3540 or FW510-R12_contig_1_2077 or FW510-R12_contig_1_2111 or FW510-R12_contig_1_2683 or FW510-R12_contig_1_2626)",
 "notes":{
 "modelseed_complex":"cpx00454;tcpx00072"
 },
@@ -32245,7 +32245,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2379 or FW510-R12_contig_1_3435",
+"gene_reaction_rule":"FW510-R12_contig_1_3435 or FW510-R12_contig_1_2379",
 "notes":{
 "modelseed_complex":"cpx00595"
 },
@@ -32330,7 +32330,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2094 or FW510-R12_contig_1_3459 or FW510-R12_contig_1_2096",
+"gene_reaction_rule":"FW510-R12_contig_1_3459 or FW510-R12_contig_1_2094 or FW510-R12_contig_1_2096",
 "notes":{
 "modelseed_complex":"cpx01715"
 },
@@ -32351,7 +32351,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_3552 or FW510-R12_contig_1_138 or FW510-R12_contig_1_3553",
+"gene_reaction_rule":"FW510-R12_contig_1_138 or FW510-R12_contig_1_3553 or FW510-R12_contig_1_3552",
 "notes":{
 "modelseed_complex":"cpx00354"
 },
@@ -32371,7 +32371,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1168 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_1331 or FW510-R12_contig_1_938) or FW510-R12_contig_1_3174 or FW510-R12_contig_1_1168",
+"gene_reaction_rule":"FW510-R12_contig_1_3174 or FW510-R12_contig_1_3492 or (FW510-R12_contig_1_599 or FW510-R12_contig_1_1052) or (FW510-R12_contig_1_938 or FW510-R12_contig_1_1331) or FW510-R12_contig_1_1168 or FW510-R12_contig_1_1168",
 "notes":{
 "modelseed_complex":"cpx00045;cpx00046;cpx00048;cpx00050;cpx00051;cpx00052"
 },
@@ -32455,7 +32455,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2241 or FW510-R12_contig_1_840",
+"gene_reaction_rule":"FW510-R12_contig_1_840 or FW510-R12_contig_1_2241",
 "notes":{
 "modelseed_complex":"cpx52493"
 },
@@ -32476,7 +32476,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2669 or FW510-R12_contig_1_2505",
+"gene_reaction_rule":"FW510-R12_contig_1_2505 or FW510-R12_contig_1_2669",
 "notes":{
 "modelseed_complex":"tcpx00930"
 },
@@ -32539,7 +32539,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -32560,7 +32560,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1115 or FW510-R12_contig_1_694",
+"gene_reaction_rule":"FW510-R12_contig_1_694 or FW510-R12_contig_1_1115",
 "notes":{
 "modelseed_complex":"cpx00192"
 },
@@ -32685,7 +32685,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_222 or (FW510-R12_contig_1_3170 or FW510-R12_contig_1_1179)",
+"gene_reaction_rule":"FW510-R12_contig_1_222 or (FW510-R12_contig_1_1179 or FW510-R12_contig_1_3170)",
 "notes":{
 "modelseed_complex":"cpx00942;cpx00943"
 },
@@ -32744,7 +32744,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":0,
-"gene_reaction_rule":"(FW510-R12_contig_1_674 or FW510-R12_contig_1_1666) and FW510-R12_contig_1_1667",
+"gene_reaction_rule":"(FW510-R12_contig_1_1666 or FW510-R12_contig_1_674) and FW510-R12_contig_1_1667",
 "notes":{
 "modelseed_complex":"tcpx00130"
 },
@@ -32789,7 +32789,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -32810,7 +32810,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2313 or FW510-R12_contig_1_2806",
+"gene_reaction_rule":"FW510-R12_contig_1_2806 or FW510-R12_contig_1_2313",
 "notes":{
 "modelseed_complex":"cpx01676"
 },
@@ -32830,7 +32830,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2815 or FW510-R12_contig_1_1401",
+"gene_reaction_rule":"FW510-R12_contig_1_1401 or FW510-R12_contig_1_2815",
 "notes":{
 "modelseed_complex":"cpx00713;tcpx01105"
 },
@@ -32871,7 +32871,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -32912,7 +32912,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_642 or FW510-R12_contig_1_1482) or (FW510-R12_contig_1_642 or FW510-R12_contig_1_1482)",
+"gene_reaction_rule":"(FW510-R12_contig_1_1482 or FW510-R12_contig_1_642) or (FW510-R12_contig_1_1482 or FW510-R12_contig_1_642)",
 "notes":{
 "modelseed_complex":"cpx00620;cpx52429"
 },
@@ -32957,7 +32957,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1839 or FW510-R12_contig_1_19 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_2084",
+"gene_reaction_rule":"FW510-R12_contig_1_19 or FW510-R12_contig_1_2679 or FW510-R12_contig_1_1839 or FW510-R12_contig_1_2074 or FW510-R12_contig_1_2084",
 "notes":{
 "modelseed_complex":"cpx00498"
 },
@@ -33038,7 +33038,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1671 or (FW510-R12_contig_1_1859 or FW510-R12_contig_1_1832 or FW510-R12_contig_1_2448) or FW510-R12_contig_1_698",
+"gene_reaction_rule":"FW510-R12_contig_1_698 or (FW510-R12_contig_1_1832 or FW510-R12_contig_1_1859 or FW510-R12_contig_1_2448) or FW510-R12_contig_1_1671",
 "notes":{
 "modelseed_complex":"cpx00571;cpx01690;tcpx01256"
 },
@@ -33307,7 +33307,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1022 or FW510-R12_contig_1_3182",
+"gene_reaction_rule":"FW510-R12_contig_1_3182 or FW510-R12_contig_1_1022",
 "notes":{
 "modelseed_complex":"cpx00910;cpx52754"
 },
@@ -33346,7 +33346,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_1754 or FW510-R12_contig_1_451",
+"gene_reaction_rule":"FW510-R12_contig_1_1754 or FW510-R12_contig_1_2887 or FW510-R12_contig_1_452 or FW510-R12_contig_1_451",
 "notes":{
 "modelseed_complex":"cpx00289;tcpx00137;tcpx00139;tcpx00150"
 },
@@ -33553,7 +33553,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1495 or (FW510-R12_contig_1_933 or FW510-R12_contig_1_930)",
+"gene_reaction_rule":"(FW510-R12_contig_1_933 or FW510-R12_contig_1_930) or FW510-R12_contig_1_1495",
 "notes":{
 "modelseed_complex":"tcpx00389;tcpx01349"
 },
@@ -33573,7 +33573,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2793 or FW510-R12_contig_1_2794",
+"gene_reaction_rule":"FW510-R12_contig_1_2794 or FW510-R12_contig_1_2793",
 "notes":{
 "modelseed_complex":"cpx00152"
 },
@@ -33635,7 +33635,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1997 and FW510-R12_contig_1_1998 and (FW510-R12_contig_1_2001 or FW510-R12_contig_1_2018) and FW510-R12_contig_1_1999 and FW510-R12_contig_1_2000",
+"gene_reaction_rule":"FW510-R12_contig_1_1997 and FW510-R12_contig_1_1998 and (FW510-R12_contig_1_2018 or FW510-R12_contig_1_2001) and FW510-R12_contig_1_1999 and FW510-R12_contig_1_2000",
 "notes":{
 "modelseed_complex":"tcpx00520"
 },
@@ -33658,7 +33658,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_1997 and FW510-R12_contig_1_1998 and (FW510-R12_contig_1_2001 or FW510-R12_contig_1_2018) and FW510-R12_contig_1_1999 and FW510-R12_contig_1_2000",
+"gene_reaction_rule":"FW510-R12_contig_1_1997 and FW510-R12_contig_1_1998 and (FW510-R12_contig_1_2018 or FW510-R12_contig_1_2001) and FW510-R12_contig_1_1999 and FW510-R12_contig_1_2000",
 "notes":{
 "modelseed_complex":"tcpx00520"
 },
@@ -33996,7 +33996,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_260 and (FW510-R12_contig_1_2848 or FW510-R12_contig_1_257) and FW510-R12_contig_1_258",
+"gene_reaction_rule":"FW510-R12_contig_1_260 and (FW510-R12_contig_1_257 or FW510-R12_contig_1_2848) and FW510-R12_contig_1_258",
 "notes":{
 "modelseed_complex":"tcpx00745"
 },
@@ -34141,7 +34141,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2241 or FW510-R12_contig_1_840",
+"gene_reaction_rule":"FW510-R12_contig_1_840 or FW510-R12_contig_1_2241",
 "notes":{
 "modelseed_complex":"cpx52493"
 },
@@ -34309,7 +34309,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2241 or FW510-R12_contig_1_840",
+"gene_reaction_rule":"FW510-R12_contig_1_840 or FW510-R12_contig_1_2241",
 "notes":{
 "modelseed_complex":"cpx52493"
 },
@@ -34799,7 +34799,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_253 or FW510-R12_contig_1_1235",
+"gene_reaction_rule":"FW510-R12_contig_1_76 or FW510-R12_contig_1_1235 or FW510-R12_contig_1_253",
 "notes":{
 "modelseed_complex":"cpx00145"
 },
@@ -34877,7 +34877,7 @@
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2313 or FW510-R12_contig_1_2806",
+"gene_reaction_rule":"FW510-R12_contig_1_2806 or FW510-R12_contig_1_2313",
 "notes":{
 "modelseed_complex":"cpx01676"
 },
@@ -35272,8 +35272,6 @@
 "name":"Nar [c0]",
 "metabolites":{
 "cpd00001_c0":1,
-"cpd00067_c0":-2,
-"cpd00067_e0":2,
 "cpd00075_c0":1,
 "cpd00209_c0":-1,
 "cpd15560_c0":1,
@@ -35303,7 +35301,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"FW510-R12_contig_1_2895 or FW510-R12_contig_1_3383",
+"gene_reaction_rule":"FW510-R12_contig_1_3383 or FW510-R12_contig_1_2895",
 "notes":{
 "modelseed_complex":"cpx01186"
 },
@@ -35325,7 +35323,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(FW510-R12_contig_1_2855 or FW510-R12_contig_1_2421) or FW510-R12_contig_1_2849",
+"gene_reaction_rule":"FW510-R12_contig_1_2849 or (FW510-R12_contig_1_2421 or FW510-R12_contig_1_2855)",
 "notes":{
 "modelseed_complex":"cpx00501;tcpx00149"
 },
@@ -37453,27 +37451,6 @@
 }
 },
 {
-"id":"rxn09427_c0",
-"name":"fatty-acyl-CoA synthase (n-C18:0CoA) [c0]",
-"metabolites":{
-"cpd00001_c0":1,
-"cpd00005_c0":-2,
-"cpd00006_c0":2,
-"cpd00010_c0":1,
-"cpd00011_c0":1,
-"cpd00067_c0":-3,
-"cpd00070_c0":-1,
-"cpd00134_c0":-1,
-"cpd00327_c0":1
-},
-"lower_bound":0,
-"upper_bound":1000,
-"gene_reaction_rule":"",
-"annotation":{
-"seed.reaction":"rxn09427"
-}
-},
-{
 "id":"rxn05039_c0",
 "name":"R07280 [c0]",
 "metabolites":{
@@ -37503,23 +37480,6 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn09180"
-}
-},
-{
-"id":"rxn03536_c0",
-"name":"R05221 [c0]",
-"metabolites":{
-"cpd00002_c0":-1,
-"cpd00008_c0":1,
-"cpd00067_c0":1,
-"cpd03918_c0":-1,
-"cpd03919_c0":1
-},
-"lower_bound":0,
-"upper_bound":1000,
-"gene_reaction_rule":"",
-"annotation":{
-"seed.reaction":"rxn03536"
 }
 },
 {
@@ -37607,20 +37567,24 @@
 }
 },
 {
-"id":"rxn05119_c0",
-"name":"L-aspartate:NAD+ oxidoreductase (deaminating) [c0]",
+"id":"rxn10954_c0",
+"name":"Fatty acid biosynthesis (n-C18:0) [c0]",
 "metabolites":{
-"cpd00003_c0":-1,
-"cpd00004_c0":1,
-"cpd00041_c0":-1,
-"cpd00067_c0":2,
-"cpd03470_c0":1
+"cpd00001_c0":8,
+"cpd00005_c0":-16,
+"cpd00006_c0":16,
+"cpd00011_c0":7,
+"cpd00067_c0":-15,
+"cpd11488_c0":-1,
+"cpd11492_c0":-7,
+"cpd11493_c0":7,
+"cpd15268_c0":1
 },
 "lower_bound":0,
 "upper_bound":1000,
 "gene_reaction_rule":"",
 "annotation":{
-"seed.reaction":"rxn05119"
+"seed.reaction":"rxn10954"
 }
 },
 {
@@ -37641,6 +37605,23 @@
 "gene_reaction_rule":"",
 "annotation":{
 "seed.reaction":"rxn08349"
+}
+},
+{
+"id":"rxn04413_c0",
+"name":"R06558 [c0]",
+"metabolites":{
+"cpd00031_c0":1,
+"cpd00038_c0":-1,
+"cpd00067_c0":1,
+"cpd03918_c0":-1,
+"cpd03919_c0":1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn04413"
 }
 },
 {
@@ -37918,6 +37899,23 @@
 }
 },
 {
+"id":"rxn05117_c0",
+"name":"L-aspartate:NADP+ oxidoreductase (deaminating) [c0]",
+"metabolites":{
+"cpd00005_c0":1,
+"cpd00006_c0":-1,
+"cpd00041_c0":-1,
+"cpd00067_c0":2,
+"cpd03470_c0":1
+},
+"lower_bound":0,
+"upper_bound":1000,
+"gene_reaction_rule":"",
+"annotation":{
+"seed.reaction":"rxn05117"
+}
+},
+{
 "id":"rxn02897_c0",
 "name":"Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]",
 "metabolites":{
@@ -38124,15 +38122,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1579",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_3404",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_3403",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1579",
 "name":""
 },
 {
@@ -38160,19 +38158,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1839",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_19",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2074",
+"id":"FW510-R12_contig_1_2679",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2679",
+"id":"FW510-R12_contig_1_1839",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2074",
 "name":""
 },
 {
@@ -38212,15 +38210,15 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_2366",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_2682",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_2209",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2366",
 "name":""
 },
 {
@@ -38256,11 +38254,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1115",
+"id":"FW510-R12_contig_1_694",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_694",
+"id":"FW510-R12_contig_1_1115",
 "name":""
 },
 {
@@ -38268,23 +38266,15 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_3492",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_938",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1331",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1052",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_599",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3492",
+"id":"FW510-R12_contig_1_3174",
 "name":""
 },
 {
@@ -38292,7 +38282,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3174",
+"id":"FW510-R12_contig_1_599",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1052",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1331",
 "name":""
 },
 {
@@ -38336,35 +38334,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1086",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3551",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3543",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1398",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1436",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3461",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1582",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1514",
+"id":"FW510-R12_contig_1_695",
 "name":""
 },
 {
@@ -38376,15 +38350,39 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_695",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1576",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2403",
+"id":"FW510-R12_contig_1_1582",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1436",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3461",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1086",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3543",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1514",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3551",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1571",
 "name":""
 },
 {
@@ -38392,7 +38390,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1571",
+"id":"FW510-R12_contig_1_2403",
 "name":""
 },
 {
@@ -38448,15 +38446,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3393",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2475",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_3392",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3393",
 "name":""
 },
 {
@@ -38512,11 +38510,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_953",
+"id":"FW510-R12_contig_1_618",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_618",
+"id":"FW510-R12_contig_1_953",
 "name":""
 },
 {
@@ -38584,7 +38582,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2855",
+"id":"FW510-R12_contig_1_2849",
 "name":""
 },
 {
@@ -38592,7 +38590,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2849",
+"id":"FW510-R12_contig_1_2855",
 "name":""
 },
 {
@@ -38620,6 +38618,10 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_451",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_2887",
 "name":""
 },
@@ -38628,15 +38630,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_451",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_452",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1599",
 "name":""
 },
 {
@@ -38644,7 +38638,23 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_1599",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_3540",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2077",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2210",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2111",
 "name":""
 },
 {
@@ -38656,15 +38666,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2077",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2111",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2210",
+"id":"FW510-R12_contig_1_941",
 "name":""
 },
 {
@@ -38676,15 +38678,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_941",
+"id":"FW510-R12_contig_1_1937",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_3023",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1937",
 "name":""
 },
 {
@@ -38696,11 +38694,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_442",
+"id":"FW510-R12_contig_1_1377",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1377",
+"id":"FW510-R12_contig_1_442",
 "name":""
 },
 {
@@ -38712,7 +38710,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_323",
+"id":"FW510-R12_contig_1_3419",
 "name":""
 },
 {
@@ -38720,7 +38718,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3419",
+"id":"FW510-R12_contig_1_323",
 "name":""
 },
 {
@@ -38728,11 +38726,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1924",
+"id":"FW510-R12_contig_1_2859",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2859",
+"id":"FW510-R12_contig_1_1924",
 "name":""
 },
 {
@@ -38740,23 +38738,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2684",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2102",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2107",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2087",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2116",
+"id":"FW510-R12_contig_1_923",
 "name":""
 },
 {
@@ -38764,7 +38750,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2086",
+"id":"FW510-R12_contig_1_2107",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2116",
 "name":""
 },
 {
@@ -38772,7 +38762,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_923",
+"id":"FW510-R12_contig_1_2102",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2684",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2086",
 "name":""
 },
 {
@@ -38788,19 +38786,27 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3160",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_3159",
 "name":""
 },
 {
-"id":"FW510-R12_contig_2_83",
+"id":"FW510-R12_contig_1_3160",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_2147",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1595",
+"name":""
+},
+{
+"id":"FW510-R12_contig_2_84",
+"name":""
+},
+{
+"id":"FW510-R12_contig_2_83",
 "name":""
 },
 {
@@ -38809,14 +38815,6 @@
 },
 {
 "id":"FW510-R12_contig_1_1597",
-"name":""
-},
-{
-"id":"FW510-R12_contig_2_84",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1595",
 "name":""
 },
 {
@@ -38836,11 +38834,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3010",
+"id":"FW510-R12_contig_1_1637",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1637",
+"id":"FW510-R12_contig_1_3010",
 "name":""
 },
 {
@@ -38856,11 +38854,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1724",
+"id":"FW510-R12_contig_1_3224",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3225",
+"id":"FW510-R12_contig_1_1724",
 "name":""
 },
 {
@@ -38868,7 +38866,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3224",
+"id":"FW510-R12_contig_1_3225",
 "name":""
 },
 {
@@ -38880,11 +38878,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_39",
+"id":"FW510-R12_contig_1_3375",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3375",
+"id":"FW510-R12_contig_1_39",
 "name":""
 },
 {
@@ -38908,15 +38906,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2643",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2638",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_3234",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2643",
 "name":""
 },
 {
@@ -38928,11 +38926,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1123",
+"id":"FW510-R12_contig_1_641",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_641",
+"id":"FW510-R12_contig_1_1123",
 "name":""
 },
 {
@@ -38948,11 +38946,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3182",
+"id":"FW510-R12_contig_1_1022",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1022",
+"id":"FW510-R12_contig_1_3182",
 "name":""
 },
 {
@@ -38984,19 +38982,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2341",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2602",
+"id":"FW510-R12_contig_1_1090",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_1015",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1090",
 "name":""
 },
 {
@@ -39005,6 +38995,14 @@
 },
 {
 "id":"FW510-R12_contig_1_1802",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2602",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2341",
 "name":""
 },
 {
@@ -39024,11 +39022,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_132",
+"id":"FW510-R12_contig_1_1485",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1485",
+"id":"FW510-R12_contig_1_132",
 "name":""
 },
 {
@@ -39072,11 +39070,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3343",
+"id":"FW510-R12_contig_1_3361",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3361",
+"id":"FW510-R12_contig_1_3343",
 "name":""
 },
 {
@@ -39112,11 +39110,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1001",
+"id":"FW510-R12_contig_1_1004",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1004",
+"id":"FW510-R12_contig_1_1001",
 "name":""
 },
 {
@@ -39172,11 +39170,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_642",
+"id":"FW510-R12_contig_1_1482",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1482",
+"id":"FW510-R12_contig_1_642",
 "name":""
 },
 {
@@ -39216,18 +39214,6 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_998",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1105",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1909",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1911",
 "name":""
 },
@@ -39236,7 +39222,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1908",
+"id":"FW510-R12_contig_1_998",
 "name":""
 },
 {
@@ -39244,7 +39230,19 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_1908",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1909",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1910",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1105",
 "name":""
 },
 {
@@ -39256,11 +39254,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_636",
+"id":"FW510-R12_contig_1_944",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_944",
+"id":"FW510-R12_contig_1_636",
 "name":""
 },
 {
@@ -39320,11 +39318,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1650",
+"id":"FW510-R12_contig_1_1313",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1313",
+"id":"FW510-R12_contig_1_1650",
 "name":""
 },
 {
@@ -39360,11 +39358,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_626",
+"id":"FW510-R12_contig_1_3249",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3249",
+"id":"FW510-R12_contig_1_626",
 "name":""
 },
 {
@@ -39380,11 +39378,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_865",
+"id":"FW510-R12_contig_1_2284",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2284",
+"id":"FW510-R12_contig_1_865",
 "name":""
 },
 {
@@ -39484,11 +39482,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2793",
+"id":"FW510-R12_contig_1_2794",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2794",
+"id":"FW510-R12_contig_1_2793",
 "name":""
 },
 {
@@ -39552,11 +39550,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1859",
+"id":"FW510-R12_contig_1_1832",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1832",
+"id":"FW510-R12_contig_1_1859",
 "name":""
 },
 {
@@ -39604,43 +39602,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1285",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1264",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3290",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1466",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1311",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1341",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_379",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1119",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3328",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1270",
 "name":""
 },
 {
@@ -39648,7 +39610,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1255",
+"id":"FW510-R12_contig_1_1342",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2301",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1531",
 "name":""
 },
 {
@@ -39656,7 +39626,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1419",
+"id":"FW510-R12_contig_1_1275",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1273",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1335",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1276",
 "name":""
 },
 {
@@ -39664,7 +39646,79 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1269",
+"id":"FW510-R12_contig_1_1265",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1339",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1419",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1330",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1340",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1464",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1286",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1281",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3327",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1277",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_585",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1283",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1341",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1467",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1489",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1272",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1940",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3524",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1253",
 "name":""
 },
 {
@@ -39672,15 +39726,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_378",
+"id":"FW510-R12_contig_1_1279",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1749",
+"id":"FW510-R12_contig_1_1731",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1476",
+"id":"FW510-R12_contig_1_1255",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1526",
 "name":""
 },
 {
@@ -39692,131 +39750,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3563",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1340",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2675",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1283",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1330",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1339",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1277",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1271",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1526",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_731",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1282",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1342",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1489",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1473",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1280",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2633",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1281",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1654",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1273",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1940",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1289",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1278",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1731",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1286",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1468",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1253",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1260",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1266",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1272",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1335",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1256",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3524",
+"id":"FW510-R12_contig_1_3328",
 "name":""
 },
 {
@@ -39824,71 +39762,23 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2301",
+"id":"FW510-R12_contig_1_1271",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1464",
+"id":"FW510-R12_contig_1_1264",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3327",
+"id":"FW510-R12_contig_1_3290",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1620",
+"id":"FW510-R12_contig_1_1270",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1276",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1287",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1259",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_730",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_275",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1244",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1531",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1467",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1021",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1279",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3412",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1275",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1265",
+"id":"FW510-R12_contig_1_1282",
 "name":""
 },
 {
@@ -39896,11 +39786,115 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_585",
+"id":"FW510-R12_contig_1_1473",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2289",
+"id":"FW510-R12_contig_1_1260",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1468",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2633",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1620",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_731",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1749",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3412",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3563",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1278",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1311",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1244",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1269",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_378",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1021",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1654",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_379",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1266",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1256",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1289",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1466",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1287",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1476",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2675",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1285",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_275",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_730",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1259",
 "name":""
 },
 {
@@ -39908,15 +39902,19 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_2289",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_2601",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2488",
+"id":"FW510-R12_contig_1_2705",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2705",
+"id":"FW510-R12_contig_1_2488",
 "name":""
 },
 {
@@ -39944,11 +39942,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2669",
+"id":"FW510-R12_contig_1_2505",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2505",
+"id":"FW510-R12_contig_1_2669",
 "name":""
 },
 {
@@ -39964,11 +39962,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1772",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1769",
+"id":"FW510-R12_contig_1_1773",
 "name":""
 },
 {
@@ -39976,23 +39970,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1764",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1766",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1762",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1765",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1771",
+"id":"FW510-R12_contig_1_1770",
 "name":""
 },
 {
@@ -40000,23 +39978,43 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1774",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1773",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1763",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1770",
+"id":"FW510-R12_contig_1_1771",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1762",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1766",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1765",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1774",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1769",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1772",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_1768",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1764",
 "name":""
 },
 {
@@ -40032,11 +40030,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1673",
+"id":"FW510-R12_contig_1_1675",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1675",
+"id":"FW510-R12_contig_1_1673",
 "name":""
 },
 {
@@ -40072,19 +40070,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_625",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_624",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3222",
+"id":"FW510-R12_contig_1_625",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_3221",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3222",
 "name":""
 },
 {
@@ -40108,11 +40106,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2494",
+"id":"FW510-R12_contig_1_2495",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2495",
+"id":"FW510-R12_contig_1_2494",
 "name":""
 },
 {
@@ -40128,19 +40126,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1946",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_239",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_942",
+"id":"FW510-R12_contig_1_1946",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_2501",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_942",
 "name":""
 },
 {
@@ -40180,11 +40178,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1863",
+"id":"FW510-R12_contig_1_1862",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1862",
+"id":"FW510-R12_contig_1_1863",
 "name":""
 },
 {
@@ -40276,15 +40274,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3387",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_3264",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1495",
+"id":"FW510-R12_contig_1_3387",
 "name":""
 },
 {
@@ -40293,6 +40287,10 @@
 },
 {
 "id":"FW510-R12_contig_1_930",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1495",
 "name":""
 },
 {
@@ -40312,10 +40310,6 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1667",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1666",
 "name":""
 },
@@ -40324,15 +40318,11 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_1667",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1886",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_13",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_14",
 "name":""
 },
 {
@@ -40344,6 +40334,14 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_14",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_13",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1422",
 "name":""
 },
@@ -40352,11 +40350,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_482",
+"id":"FW510-R12_contig_1_481",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_481",
+"id":"FW510-R12_contig_1_482",
 "name":""
 },
 {
@@ -40436,11 +40434,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_620",
+"id":"FW510-R12_contig_1_619",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_619",
+"id":"FW510-R12_contig_1_620",
 "name":""
 },
 {
@@ -40460,15 +40458,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1502",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2349",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_1301",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1502",
 "name":""
 },
 {
@@ -40500,51 +40498,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1738",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2376",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1315",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1837",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1836",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3175",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_793",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_4",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_271",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1797",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_971",
 "name":""
 },
 {
@@ -40552,7 +40506,51 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_2_203",
+"id":"FW510-R12_contig_1_971",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1738",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1759",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1836",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_4",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3175",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1797",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_793",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_271",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1837",
 "name":""
 },
 {
@@ -40564,15 +40562,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1759",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_589",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2",
+"id":"FW510-R12_contig_1_2376",
+"name":""
+},
+{
+"id":"FW510-R12_contig_2_203",
 "name":""
 },
 {
@@ -40588,19 +40586,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2410",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2159",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2445",
+"id":"FW510-R12_contig_1_2410",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_1600",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2445",
 "name":""
 },
 {
@@ -40609,6 +40607,10 @@
 },
 {
 "id":"FW510-R12_contig_1_2182",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2390",
 "name":""
 },
 {
@@ -40624,19 +40626,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2390",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_385",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2548",
+"id":"FW510-R12_contig_1_2279",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2279",
+"id":"FW510-R12_contig_1_2548",
 "name":""
 },
 {
@@ -40664,15 +40662,15 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_173",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1898",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_490",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_173",
 "name":""
 },
 {
@@ -40728,11 +40726,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_348",
+"id":"FW510-R12_contig_1_221",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_221",
+"id":"FW510-R12_contig_1_348",
 "name":""
 },
 {
@@ -40748,15 +40746,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3112",
+"id":"FW510-R12_contig_1_1663",
 "name":""
 },
 {
-"id":"FW510-R12_contig_2_94",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2139",
+"id":"FW510-R12_contig_1_2130",
 "name":""
 },
 {
@@ -40768,11 +40762,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2130",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1663",
+"id":"FW510-R12_contig_2_94",
 "name":""
 },
 {
@@ -40780,7 +40770,19 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_2139",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3112",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1755",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2474",
 "name":""
 },
 {
@@ -40792,7 +40794,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2474",
+"id":"FW510-R12_contig_1_1483",
 "name":""
 },
 {
@@ -40800,15 +40802,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1483",
+"id":"FW510-R12_contig_1_389",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_353",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_389",
 "name":""
 },
 {
@@ -40824,15 +40822,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3258",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2288",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1218",
+"id":"FW510-R12_contig_1_3258",
 "name":""
 },
 {
@@ -40840,15 +40834,19 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_1218",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1214",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2737",
+"id":"FW510-R12_contig_1_1947",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1947",
+"id":"FW510-R12_contig_1_2737",
 "name":""
 },
 {
@@ -40888,19 +40886,19 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3558",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_3368",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1561",
+"id":"FW510-R12_contig_1_3558",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_1563",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1561",
 "name":""
 },
 {
@@ -40952,11 +40950,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2010",
+"id":"FW510-R12_contig_1_34",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_34",
+"id":"FW510-R12_contig_1_2010",
 "name":""
 },
 {
@@ -41012,11 +41010,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_839",
+"id":"FW510-R12_contig_1_1804",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1804",
+"id":"FW510-R12_contig_1_839",
 "name":""
 },
 {
@@ -41092,23 +41090,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1258",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_1257",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2357",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_3562",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_219",
 "name":""
 },
 {
@@ -41116,7 +41098,23 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_219",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1257",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1787",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_3562",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_1258",
 "name":""
 },
 {
@@ -41152,11 +41150,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2267",
+"id":"FW510-R12_contig_1_3520",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3520",
+"id":"FW510-R12_contig_1_2267",
 "name":""
 },
 {
@@ -41224,11 +41222,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2379",
+"id":"FW510-R12_contig_1_3435",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3435",
+"id":"FW510-R12_contig_1_2379",
 "name":""
 },
 {
@@ -41236,11 +41234,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2094",
+"id":"FW510-R12_contig_1_3459",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3459",
+"id":"FW510-R12_contig_1_2094",
 "name":""
 },
 {
@@ -41248,11 +41246,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3552",
+"id":"FW510-R12_contig_1_138",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_138",
+"id":"FW510-R12_contig_1_3552",
 "name":""
 },
 {
@@ -41264,11 +41262,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2241",
+"id":"FW510-R12_contig_1_840",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_840",
+"id":"FW510-R12_contig_1_2241",
 "name":""
 },
 {
@@ -41276,11 +41274,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2313",
+"id":"FW510-R12_contig_1_2806",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2806",
+"id":"FW510-R12_contig_1_2313",
 "name":""
 },
 {
@@ -41336,19 +41334,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_1998",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_1997",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2001",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2000",
 "name":""
 },
 {
@@ -41356,15 +41342,19 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_2000",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1999",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2871",
+"id":"FW510-R12_contig_1_1998",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2870",
+"id":"FW510-R12_contig_1_2001",
 "name":""
 },
 {
@@ -41376,7 +41366,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3317",
+"id":"FW510-R12_contig_1_2870",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2871",
 "name":""
 },
 {
@@ -41384,11 +41378,7 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2318",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2324",
+"id":"FW510-R12_contig_1_3317",
 "name":""
 },
 {
@@ -41404,11 +41394,43 @@
 "name":""
 },
 {
+"id":"FW510-R12_contig_1_2318",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_2324",
+"name":""
+},
+{
 "id":"FW510-R12_contig_1_1524",
 "name":""
 },
 {
 "id":"FW510-R12_contig_1_142",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_431",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_434",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_433",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_435",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_438",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_437",
 "name":""
 },
 {
@@ -41420,39 +41442,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_438",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_434",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_435",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_437",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_433",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_431",
-"name":""
-},
-{
-"id":"FW510-R12_contig_1_2914",
-"name":""
-},
-{
 "id":"FW510-R12_contig_1_2913",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_257",
+"id":"FW510-R12_contig_1_2914",
 "name":""
 },
 {
@@ -41461,6 +41455,10 @@
 },
 {
 "id":"FW510-R12_contig_1_260",
+"name":""
+},
+{
+"id":"FW510-R12_contig_1_257",
 "name":""
 },
 {
@@ -41560,11 +41558,11 @@
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_2895",
+"id":"FW510-R12_contig_1_3383",
 "name":""
 },
 {
-"id":"FW510-R12_contig_1_3383",
+"id":"FW510-R12_contig_1_2895",
 "name":""
 },
 {
