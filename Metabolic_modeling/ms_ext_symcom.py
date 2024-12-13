@@ -257,6 +257,8 @@ class SynComStudy:
             model_reaction = template_reaction.to_reaction(model)
             model_reaction.lower_bound = lb
             model_reaction.upper_bound = ub
+            _str = model_reaction.build_reaction_string(True)
+            print(f'{model.id} add {model_reaction.id}: {_str}')
             added_reactions.append(model_reaction)
         model.add_reactions(added_reactions)
         add_exchanges = MSBuilder.add_exchanges_to_model(model)

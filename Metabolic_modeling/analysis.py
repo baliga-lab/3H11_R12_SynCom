@@ -195,31 +195,7 @@ def _report(solutions_acido, solutions_rhoda, tests):
     df = df.set_index('cpd_id')
     return df
 
-def model_comm_io():
-    for m in model_comm.metabolites:
-        if m.compartment == 'e0':
-            total = {}
-            for rxn in m.reactions:
-                rxn_s = rxn.metabolites[m]
-                rxn_v = solution_comm_wt.fluxes[rxn.id]
-                if rxn_v != 0:
-                    cmps = frozenset(rxn.compartments)
-                    if cmps not in total:
-                        total[cmps] = 0
-                    total[cmps] += rxn_v * rxn_s
-            total_v = 0
-            print_total = False
-            for cmps in total:
-                cmp_str = ';'.join(cmps)
-                if not 'e0' == cmp_str:
-                    total_v += total[cmps]
-                    if round(total[cmps], 9) != 0:
-                        print_total = True
-                        print(m.id, m.name, cmp_str, total[cmps])
-            if print_total:
-                print('\t', f'total {m.name}', round(total_v, 10))
-                    #print('\t', rxn_v, rxn.build_reaction_string(), rxn.compartments)
-def model_comm_io2():
+def model_comm_io2(model_comm, solution_comm_wt):
     for e in model_comm.exchanges:
         v = solution_comm_wt.fluxes[e.id]
         if v != 0:
@@ -242,4 +218,29 @@ def model_comm_io2():
                     total_v += total[cmps]
                     print('\t', cmp_str, total[cmps])
             print('\t', f'total {m.name}', total_v)
-                    #print('\t', rxn_v, rxn.build_reaction_string(), rxn.compartments)
+            
+def model_comm_io(model_comm, solution_comm_wt, exclude=None):
+    if exclude is None:
+        exclude = set()
+    for m in model_comm.metabolites:
+        if m.id not in exclude and m.compartment == 'e0':
+            total = {}
+            for rxn in m.reactions:
+                rxn_s = rxn.metabolites[m]
+                rxn_v = solution_comm_wt.fluxes[rxn.id]
+                if rxn_v != 0:
+                    cmps = frozenset(rxn.compartments)
+                    if cmps not in total:
+                        total[cmps] = 0
+                    total[cmps] += rxn_v * rxn_s
+            total_v = 0
+            print_total = False
+            for cmps in total:
+                cmp_str = ';'.join(cmps)
+                if not 'e0' == cmp_str:
+                    total_v += total[cmps]
+                    if round(total[cmps], 9) != 0:
+                        print_total = True
+                        print(m.id, m.name, cmp_str, total[cmps])
+            if print_total:
+                print('\t', f'total {m.name}', round(total_v, 10))
