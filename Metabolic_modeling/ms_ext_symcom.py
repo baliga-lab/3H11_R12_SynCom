@@ -90,7 +90,19 @@ def _add_leucine_export(model):
         model.add_reactions([leuE_transporter])
         print(f'[{model.id}] added LeuE')
     MSBuilder.add_exchanges_to_model(model)
-
+    
+def _fix_proton_mb(r, metabolite_proton):
+    mb = r.check_mass_balance()
+    print(r.id, 'mass balance', mb)
+    if 'charge' in mb and 'H' in mb:
+        v_charge = mb['charge']
+        v_h = mb['H']
+        if v_charge == v_h:
+            print(f'Fix Proton MassBalance [{v_charge}] [before] {r.id} {r.build_reaction_string(True)}')
+            r.add_metabolites({
+                metabolite_proton: v_charge * -1
+            })
+            print(f'Fix Proton MassBalance [{v_charge}] [after ] {r.id} {r.build_reaction_string(True)}')
 
 def _setup_fix(model):
     delete = [
@@ -98,6 +110,7 @@ def _setup_fix(model):
         'rxn08062_c0', # Acetate [e0] + Na+ [e0] --> Acetate [c0] + Na+ [c0]
         'rxn05298_c0', # L-Glutamate [e0] + Na+ [e0] <=> L-Glutamate [c0] + Na+ [c0]
         'rxn05313_c0', # Phosphate [e0] + 3 Na+ [e0] --> Phosphate [c0] + 3 Na+ [c0]
+        'rxn00288_c0', # FAD [R] + Succinate [R] + H+ [R] --> Fumarate [R] + FADH2 [R]
     ]
     _to_delete = []
     for i in delete:
@@ -145,6 +158,20 @@ class SynComStudy:
             model_rhoda.metabolites.cpd00067_c0: 2,
             model_rhoda.metabolites.cpd00067_e0: -2
         })
+        
+        r_metabolites = model_rhoda.reactions.rxn19704_c0.metabolites
+        if model_rhoda.metabolites.cpd28083_c0 in r_metabolites:
+            print('replace Flavodoxin with FAD/FADH2')
+            model_rhoda.reactions.rxn19704_c0.add_metabolites({
+                # Reduced-flavodoxins > FADH2
+                model_rhoda.metabolites.cpd28083_c0: r_metabolites[model_rhoda.metabolites.cpd28083_c0] * -1,
+                model_rhoda.metabolites.cpd00982_c0: r_metabolites[model_rhoda.metabolites.cpd28083_c0],
+                # Oxidized-flavodoxins > FAD 
+                model_rhoda.metabolites.cpd27758_c0: r_metabolites[model_rhoda.metabolites.cpd27758_c0] * -1,
+                model_rhoda.metabolites.cpd00015_c0: r_metabolites[model_rhoda.metabolites.cpd27758_c0],
+            })
+        _fix_proton_mb(model_rhoda.reactions.rxn19704_c0, model_rhoda.metabolites.cpd00067_c0)
+        
         print('R12', model_rhoda.reactions.dnr00001_c0.build_reaction_string(True))
         print('3H11', model_acido.reactions.dnr00001_c0.build_reaction_string(True))
 
@@ -230,6 +257,8 @@ class SynComStudy:
             model_reaction = template_reaction.to_reaction(model)
             model_reaction.lower_bound = lb
             model_reaction.upper_bound = ub
+            _str = model_reaction.build_reaction_string(True)
+            print(f'{model.id} add {model_reaction.id}: {_str}')
             added_reactions.append(model_reaction)
         model.add_reactions(added_reactions)
         add_exchanges = MSBuilder.add_exchanges_to_model(model)
@@ -767,7 +796,7 @@ class CommFactory:
 
         return model
 
-def _build(self):
+def _build(self, with_gpr = False):
     model_comm = Comm('model')
 
     ex_ids = set()
@@ -807,7 +836,8 @@ def _build(self):
                 else:
                     r_copy_id = r.id[:-1] + token
                 r_copy = Reaction(r_copy_id, f'{r.name[:-4]}[{token}]', r.subsystem, r.lower_bound, r.upper_bound)
-                # r_copy.gene_reaction_rule = r.gene_reaction_rule
+                if with_gpr:
+                    r_copy.gene_reaction_rule = r.gene_reaction_rule
                 r_copy_m =  {model_comm.metabolites.get_by_id(m_pointer[token][m.id].id): v for m, v in r.metabolites.items()}
                 r_copy.add_metabolites(r_copy_m)
                 r_mapper[r_copy.id] = r_copy

@@ -44,8 +44,12 @@ class PlotFit:
                 self.model.objective = 'bio1'
                 self.model.reactions.EX_cpd00209_e0.lower_bound = _no3_uptake
                 self.model.reactions.EX_cpd00029_e0.lower_bound = _ac_uptake
+<<<<<<< HEAD
                 self.model.reactions.bio1.lower_bound = 0
                 self.model.reactions.bio1.upper_bound = _biomass_change
+=======
+                self.model.reactions.bio1.bounds = (0, _biomass_change)
+>>>>>>> 29bdfec6c037c5e19430fe11d9a3281e12bfb64c
 
                 sol_bio = self.cobra.flux_analysis.pfba(self.model)
                 self.solutions_bio.append(sol_bio)
@@ -57,8 +61,12 @@ class PlotFit:
                 print('error biomass:', _biomass_err, 'AC', _ac_err, 'NO3', _no3_err)
 
                 self.model.objective = 'ATPM_c0'
+<<<<<<< HEAD
                 self.model.reactions.bio1.lower_bound = _biomass_change
                 self.model.reactions.bio1.upper_bound = _biomass_change
+=======
+                self.model.reactions.bio1.bounds = (_biomass_change, _biomass_change)
+>>>>>>> 29bdfec6c037c5e19430fe11d9a3281e12bfb64c
 
                 sol_atp = self.cobra.flux_analysis.pfba(self.model)
                 self.solutions_atp[(_t0, _t1)] = sol_atp
@@ -68,7 +76,11 @@ class PlotFit:
                 _no3_err = (_no3_uptake - sol_atp.fluxes['EX_cpd00209_e0']) ** 2
 
                 print('error biomass:', _biomass_err, 'AC', _ac_err, 'NO3', _no3_err)
+<<<<<<< HEAD
                 print(sol_atp.fluxes['ATPM_c0'])
+=======
+                print(sol_atp.fluxes['ATPM_c0'], _biomass_change/sol_atp.fluxes['ATPM_c0'])
+>>>>>>> 29bdfec6c037c5e19430fe11d9a3281e12bfb64c
                 print()
 
     @staticmethod
@@ -162,7 +174,11 @@ class PlotFit:
         ax.set_ylabel('mM')
         ax2.set_ylabel('gDW')
         sns.despine(fig, ax)
+<<<<<<< HEAD
 
+=======
+                
+>>>>>>> 29bdfec6c037c5e19430fe11d9a3281e12bfb64c
 
 class CommPlots:
 
@@ -217,7 +233,7 @@ class CommPlots:
                 'EX_cpd00209_e0': uptake_no3,
                 'EX_cpd00075_e0': uptake_no2,
             }
-            for ex_id in {'EX_cpd00029_e0', 'EX_cpd00209_e0', 'EX_cpd00075_e0'}:
+            for ex_id in _medium_up.keys():
                 rxn_ex = self.model.reactions.get_by_id(ex_id)
                 rxn_ex.lower_bound = _medium_up[ex_id]
                 # print(i, rxn_ex.id, rxn_ex.lower_bound)
@@ -238,6 +254,9 @@ class CommPlots:
                 atpm_max_R = sol_atpm.fluxes['ATPM_cR']
                 solution_array[i]['max_atpm_r'] = atpm_max_A
                 print(i, 'MAX isolate ATPM', atpm_max_A, atpm_max_R)
+            else:
+                solution_array[i]['max_atpm_a'] = 0
+                solution_array[i]['max_atpm_r'] = 0
             # solution_array[i] = {'solution': sol}
 
             self.model.reactions.bio1.lower_bound = 0
@@ -562,43 +581,56 @@ class CommPlots:
     def generate_organism_uptake_data(self, time_steps, solution_exp, monitor=None):
         if monitor is None:
             monitor = {
-                'ac': 'cpd00029_e0'
+                'acetate': 'cpd00029_e0',
+                'no3': 'cpd00209_e0',
+                'no2': 'cpd00075_e0',
+                'no': 'cpd00418_e0',
+                'n2o': 'cpd00659_e0',
+                'n2': 'cpd00528_e0',
+                
+                'leu': 'cpd00107_e0',
             }
         df_array = []
+        
         for i in range(3):
-            df_array.append({
-                'i': [],
-                'growth': [],
-                'acetate': [],
-                'no3': [],
-                'no2': [],
-                'no': [],
-                'n2o': [],
-                'n2': [],
-                'leu': []
-            })
+            _data_array = {k: [] for k in monitor}
+            _data_array['i'] = []
+            _data_array['growth'] = []
+            df_array.append(_data_array)
+            
         time = 0
         for t_index in range(len(time_steps)):
             sol_exp = solution_exp[t_index]
             growth_3H11 = sol_exp.fluxes['bio1_A']
             growth_R12 = sol_exp.fluxes['bio1_R']
-            leu_total, leu_acido, leu_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00107_e0', sol_exp))
-            ac_total, ac_acido, ac_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00029_e0', sol_exp))
-            no3_total, no3_acido, no3_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00209_e0', sol_exp))
-            no2_total, no2_acido, no2_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00075_e0', sol_exp))
-            no_total, no_acido, no_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00418_e0', sol_exp))
-            n2o_total, n2o_acido, n2o_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00659_e0', sol_exp))
-            n2_total, n2_acido, n2_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00528_e0', sol_exp))
-
-            print(ac_total, ac_acido, ac_rhoda)
-
+            #leu_total, leu_acido, leu_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00107_e0', sol_exp))
+            #ac_total, ac_acido, ac_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00029_e0', sol_exp))
+            #no3_total, no3_acido, no3_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00209_e0', sol_exp))
+            #no2_total, no2_acido, no2_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00075_e0', sol_exp))
+            #no_total, no_acido, no_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00418_e0', sol_exp))
+            #n2o_total, n2o_acido, n2o_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00659_e0', sol_exp))
+            #sn2_total, n2_acido, n2_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, 'cpd00528_e0', sol_exp))
+            
             iterations = time_steps[t_index]
+            
+            for alias, cpd in monitor.items():
+                cpd_total, cpd_acido, cpd_rhoda = self._cpd_acc_to_a_r_t(self._get_cpd_acc(self.model, cpd, sol_exp))
+                for it in range(iterations):
+                    df_array[0][alias].append(cpd_total)
+                    df_array[1][alias].append(cpd_acido)
+                    df_array[2][alias].append(cpd_rhoda)
+
+            #print(ac_total, ac_acido, ac_rhoda)
+
+            
             for it in range(iterations):
                 df_array[0]['i'].append(time)
                 df_array[1]['i'].append(time)
                 df_array[2]['i'].append(time)
                 df_array[1]['growth'].append(sol_exp.fluxes['bio1_A'])
                 df_array[2]['growth'].append(sol_exp.fluxes['bio1_R'])
+                time += 1
+                """
                 df_array[0]['acetate'].append(ac_total)
                 df_array[1]['acetate'].append(ac_acido)
                 df_array[2]['acetate'].append(ac_rhoda)
@@ -626,7 +658,8 @@ class CommPlots:
                 df_array[0]['leu'].append(leu_total)
                 df_array[1]['leu'].append(leu_acido)
                 df_array[2]['leu'].append(leu_rhoda)
-                time += 1
+                """
+                
 
         return df_array
 
